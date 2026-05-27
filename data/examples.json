@@ -1,0 +1,152 @@
+{
+  "bringen|donositi / doneti": {
+    "ipf": [
+      "Tata svako jutro donosi svežu zemičku iz pekare.",
+      "Papa bringt jeden Morgen ein frisches Brötchen aus der Bäckerei."
+    ],
+    "pf": [
+      "Sutra ću ti doneti knjigu koju si tražio.",
+      "Morgen bringe ich dir das Buch, das du gesucht hast."
+    ]
+  },
+  "bitten|moliti / zamoliti": {
+    "ipf": [
+      "Stalno me moli da mu pomognem.",
+      "Er bittet mich ständig, ihm zu helfen."
+    ],
+    "pf": [
+      "Zamolio sam šefa za slobodan dan.",
+      "Ich habe den Chef um einen freien Tag gebeten."
+    ]
+  },
+  "zurückkommen|vraćati se / vratiti se": {
+    "ipf": [
+      "Obično se vraćam s posla oko šest.",
+      "Ich komme normalerweise gegen sechs von der Arbeit zurück."
+    ],
+    "pf": [
+      "Vratio sam se kući kasno sinoć.",
+      "Ich bin gestern Abend spät nach Hause zurückgekommen."
+    ]
+  },
+  "wünschen|želeti / poželeti": {
+    "ipf": [
+      "Oduvek želim da putujem u Japan.",
+      "Ich wünsche mir schon immer, nach Japan zu reisen."
+    ],
+    "pf": [
+      "Poželela mu je srećan rođendan i poklonila tortu.",
+      "Sie hat ihm alles Gute zum Geburtstag gewünscht und eine Torte geschenkt."
+    ]
+  },
+  "zeigen|pokazivati / pokazati": {
+    "ipf": [
+      "Učitelj nam svaki dan pokazuje nove reči na tabli.",
+      "Der Lehrer zeigt uns jeden Tag neue Wörter an der Tafel."
+    ],
+    "pf": [
+      "Pokazao mi je sliku svoje porodice.",
+      "Er hat mir ein Bild seiner Familie gezeigt."
+    ]
+  },
+  "bezahlen|plaćati / platiti": {
+    "ipf": [
+      "Račune plaćam preko interneta.",
+      "Rechnungen bezahle ich übers Internet."
+    ],
+    "pf": [
+      "Platio sam kafu i izašao iz kafića.",
+      "Ich habe den Kaffee bezahlt und das Café verlassen."
+    ]
+  },
+  "verlassen|napuštati / napustiti": {
+    "ipf": [
+      "Mladi sve češće napuštaju selo i sele se u grad.",
+      "Junge Leute verlassen immer öfter das Dorf und ziehen in die Stadt."
+    ],
+    "pf": [
+      "Napustio je posao prošle nedelje.",
+      "Er hat letzte Woche den Job verlassen."
+    ]
+  },
+  "einnehmen|uzimati / uzeti": {
+    "ipf": [
+      "Uzimam ovaj lek već tri meseca.",
+      "Ich nehme dieses Medikament schon seit drei Monaten ein."
+    ],
+    "pf": [
+      "Uzmi tabletu pre spavanja, ne posle jela.",
+      "Nimm die Tablette vor dem Schlafengehen ein, nicht nach dem Essen."
+    ]
+  },
+  "korrigieren|ispravljati / ispraviti": {
+    "ipf": [
+      "Profesorka ispravlja domaće zadatke svake večeri.",
+      "Die Lehrerin korrigiert jeden Abend Hausaufgaben."
+    ],
+    "pf": [
+      "Ispravio sam grešku u dokumentu pre nego što sam ga poslao.",
+      "Ich habe den Fehler im Dokument korrigiert, bevor ich es verschickt habe."
+    ]
+  },
+  "anrufen|zvati / pozvati": {
+    "ipf": [
+      "Mama me zove svaki dan posle ručka.",
+      "Mama ruft mich jeden Tag nach dem Mittagessen an."
+    ],
+    "pf": [
+      "Pozvao sam doktora i zakazao termin.",
+      "Ich habe den Arzt angerufen und einen Termin vereinbart."
+    ]
+  },
+  "werden|postajati / postati": {
+    "ipf": [
+      "Zima u Beogradu postaje sve hladnija.",
+      "Der Winter in Belgrad wird immer kälter."
+    ],
+    "pf": [
+      "Posle godinu dana postao je menadžer tima.",
+      "Nach einem Jahr ist er Teamleiter geworden."
+    ]
+  },
+  "regeln|regulisati / srediti": {
+    "ipf": [
+      "Saobraćaj na raskrsnici reguliše policajac.",
+      "Den Verkehr an der Kreuzung regelt ein Polizist."
+    ],
+    "pf": [
+      "Sredio sam sve papire za putovanje u inostranstvo.",
+      "Ich habe alle Papiere für die Auslandsreise geregelt."
+    ]
+  },
+  "durchführen|sprovoditi / sprovesti": {
+    "ipf": [
+      "Firma sprovodi reforme već nekoliko meseci.",
+      "Die Firma führt seit einigen Monaten Reformen durch."
+    ],
+    "pf": [
+      "Sproveli smo anketu među zaposlenima i objavili rezultate.",
+      "Wir haben eine Umfrage unter den Mitarbeitern durchgeführt und die Ergebnisse veröffentlicht."
+    ]
+  },
+  "treffen|sretati / sresti; pogoditi": {
+    "ipf": [
+      "Često srećem komšije u liftu.",
+      "Ich treffe oft die Nachbarn im Aufzug."
+    ],
+    "pf": [
+      "Juče sam sreo staru prijateljicu u kafiću.",
+      "Gestern habe ich eine alte Freundin im Café getroffen."
+    ]
+  },
+  "untersuchen|istraživati / istražiti": {
+    "ipf": [
+      "Naučnici istražuju uzroke bolesti već decenijama.",
+      "Wissenschaftler erforschen die Ursachen der Krankheit seit Jahrzehnten."
+    ],
+    "pf": [
+      "Istražili smo tržište pre lansiranja proizvoda.",
+      "Wir haben den Markt vor der Produkteinführung untersucht."
+    ]
+  }
+}
