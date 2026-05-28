@@ -1804,5 +1804,2494 @@
       "stabilna",
       "stabilno"
     ]
+  },
+  "Abfluss|odvod": {
+    "genus": "m"
+  },
+  "Ausgang|izlaz": {
+    "genus": "m"
+  },
+  "Badezimmer|kupatilo": {
+    "genus": "n"
+  },
+  "Balkon|balkon": {
+    "genus": "m"
+  },
+  "Bank|klupa": {
+    "genus": "f"
+  },
+  "Besen|metla": {
+    "genus": "f"
+  },
+  "Bett|krevet": {
+    "genus": "m"
+  },
+  "Bettdecke|jorgan": {
+    "genus": "m"
+  },
+  "Boden|pod": {
+    "genus": "m"
+  },
+  "Bohrer|bušilica": {
+    "genus": "f"
+  },
+  "Briefkasten|poštansko sanduče": {
+    "genus": "n"
+  },
+  "Bügeleisen|pegla": {
+    "genus": "f"
+  },
+  "Dach|krov": {
+    "genus": "m"
+  },
+  "Dachboden|tavan": {
+    "genus": "m"
+  },
+  "Eimer|kanta": {
+    "genus": "f"
+  },
+  "Eingang|ulaz": {
+    "genus": "m"
+  },
+  "Fenster|prozor": {
+    "genus": "m"
+  },
+  "Fernbedienung|daljinski upravljač": {
+    "genus": "m"
+  },
+  "Flur|hodnik": {
+    "genus": "m"
+  },
+  "Garage|garaža": {
+    "genus": "f"
+  },
+  "Garten|bašta": {
+    "genus": "f"
+  },
+  "Geräusch|zvuk / buka": {
+    "genus": "m"
+  },
+  "Geschirrspüler|mašina za pranje sudova": {
+    "genus": "f"
+  },
+  "Glühbirne|sijalica": {
+    "genus": "f"
+  },
+  "Hammer|čekić": {
+    "genus": "m"
+  },
+  "Handtuch|peškir": {
+    "genus": "m"
+  },
+  "Heizkörper|radijator": {
+    "genus": "m"
+  },
+  "Heizung|grejanje": {
+    "genus": "n"
+  },
+  "Jalousie|roletna": {
+    "genus": "f"
+  },
+  "Kabel|kabl": {
+    "genus": "m"
+  },
+  "Karton|karton": {
+    "genus": "m"
+  },
+  "Kehrschaufel|lopatica za smeće": {
+    "genus": "n"
+  },
+  "Keller|podrum": {
+    "genus": "m"
+  },
+  "Kinderzimmer|dečija soba": {
+    "genus": "f"
+  },
+  "Kissen|jastuk": {
+    "genus": "m"
+  },
+  "Kiste|kutija": {
+    "genus": "f"
+  },
+  "Klebeband|selotejp": {
+    "genus": "m"
+  },
+  "Kleber|lepak": {
+    "genus": "m"
+  },
+  "Kleiderschrank|ormar za odeću": {
+    "genus": "m"
+  },
+  "Klingel|zvono": {
+    "genus": "n"
+  },
+  "Kommode|komoda": {
+    "genus": "f"
+  },
+  "Korb|korpa": {
+    "genus": "f"
+  },
+  "Ladegerät|punjač": {
+    "genus": "m"
+  },
+  "Laken|čaršav": {
+    "genus": "m"
+  },
+  "Lampe|lampa": {
+    "genus": "f"
+  },
+  "Lappen|krpa": {
+    "genus": "f"
+  },
+  "Leiter|merdevine": {
+    "genus": "f"
+  },
+  "Licht|svetlo": {
+    "genus": "n"
+  },
+  "Matratze|dušek": {
+    "genus": "m"
+  },
+  "Mülleimer|kanta za smeće": {
+    "genus": "n"
+  },
+  "Nachttisch|noćni stočić": {
+    "genus": "m"
+  },
+  "Nagel (Metall)|ekser": {
+    "genus": "m"
+  },
+  "Putzmittel|sredstvo za čišćenje": {
+    "genus": "n"
+  },
+  "Regal|polica": {
+    "genus": "f"
+  },
+  "Schalter|prekidač": {
+    "genus": "m"
+  },
+  "Schatten|senka": {
+    "genus": "f"
+  },
+  "Schere|makaze": {
+    "genus": "f"
+  },
+  "Schlafzimmer|spavaća soba": {
+    "genus": "f"
+  },
+  "Schloss|brava": {
+    "genus": "f"
+  },
+  "Schlüssel|ključ": {
+    "genus": "m"
+  },
+  "Schnur|kanap": {
+    "genus": "m"
+  },
+  "Schrank|ormar": {
+    "genus": "m"
+  },
+  "Schraube|šraf": {
+    "genus": "m"
+  },
+  "Schraubenzieher|šrafciger": {
+    "genus": "m"
+  },
+  "Schreibtisch|radni sto": {
+    "genus": "n"
+  },
+  "Schublade|fioka": {
+    "genus": "f"
+  },
+  "Schwamm|sunđer": {
+    "genus": "m"
+  },
+  "Seil|konopac": {
+    "genus": "m"
+  },
+  "Sessel|fotelja": {
+    "genus": "f"
+  },
+  "Sofa|kauč": {
+    "genus": "m"
+  },
+  "Spiegel|ogledalo": {
+    "genus": "n"
+  },
+  "Staubsauger|usisivač": {
+    "genus": "m"
+  },
+  "Steckdose|utičnica": {
+    "genus": "f"
+  },
+  "Stecker|utikač": {
+    "genus": "m"
+  },
+  "Strom|struja": {
+    "genus": "f"
+  },
+  "Stuhl|stolica": {
+    "genus": "f"
+  },
+  "Teppich|tepih": {
+    "genus": "m"
+  },
+  "Terrasse|terasa": {
+    "genus": "f"
+  },
+  "Tisch|sto": {
+    "genus": "n"
+  },
+  "Toilette|toalet / WC": {
+    "genus": "m"
+  },
+  "Treppe|stepenice": {
+    "genus": "f"
+  },
+  "Trockner|sušilica": {
+    "genus": "f"
+  },
+  "Tür|vrata": {
+    "genus": "n"
+  },
+  "Türgriff|kvaka": {
+    "genus": "f"
+  },
+  "Tüte|kesa": {
+    "genus": "f"
+  },
+  "Vorhang|zavesa": {
+    "genus": "f"
+  },
+  "Wand|zid": {
+    "genus": "m"
+  },
+  "Waschmaschine|mašina za pranje veša": {
+    "genus": "f"
+  },
+  "Waschpulver|prašak za veš": {
+    "genus": "m"
+  },
+  "Wasserhahn|česma": {
+    "genus": "f"
+  },
+  "Werkzeug|alat": {
+    "genus": "m"
+  },
+  "Wohnzimmer|dnevna soba": {
+    "genus": "f"
+  },
+  "Wolldecke|ćebe": {
+    "genus": "n"
+  },
+  "Zange|klešta": {
+    "genus": "f"
+  },
+  "Zimmerdecke|plafon": {
+    "genus": "m"
+  },
+  "das Essen|hrana / jelo": {
+    "genus": "f"
+  },
+  "die Ernährung|ishrana": {
+    "genus": "f"
+  },
+  "Abendessen|večera": {
+    "genus": "f"
+  },
+  "Apfel|jabuka": {
+    "genus": "f"
+  },
+  "Banane|banana": {
+    "genus": "f"
+  },
+  "Bier|pivo": {
+    "genus": "n"
+  },
+  "Birne|kruška": {
+    "genus": "f"
+  },
+  "Bohne|pasulj": {
+    "genus": "m"
+  },
+  "Brot|hleb": {
+    "genus": "m"
+  },
+  "Brötchen|zemička": {
+    "genus": "f"
+  },
+  "Butter|puter": {
+    "genus": "m"
+  },
+  "Deckel|poklopac": {
+    "genus": "m"
+  },
+  "Ei|jaje": {
+    "genus": "n"
+  },
+  "Eis (Speiseeis)|sladoled": {
+    "genus": "m"
+  },
+  "Erbse|grašak": {
+    "genus": "m"
+  },
+  "Erdbeere|jagoda": {
+    "genus": "f"
+  },
+  "Essig|sirće": {
+    "genus": "n"
+  },
+  "Fisch|riba": {
+    "genus": "f"
+  },
+  "Flasche|flaša": {
+    "genus": "f"
+  },
+  "Fleisch|meso": {
+    "genus": "n"
+  },
+  "Frühstück|doručak": {
+    "genus": "m",
+    "gen": "doručka"
+  },
+  "Gabel|viljuška": {
+    "genus": "f"
+  },
+  "Gefrierschrank|zamrzivač": {
+    "genus": "m"
+  },
+  "Gemüse|povrće": {
+    "genus": "n"
+  },
+  "Glas|čaša": {
+    "genus": "f"
+  },
+  "Gurke|krastavac": {
+    "genus": "m"
+  },
+  "Herd|šporet": {
+    "genus": "m"
+  },
+  "Himbeere|malina": {
+    "genus": "f"
+  },
+  "Honig|med": {
+    "genus": "m"
+  },
+  "Hähnchen|piletina": {
+    "genus": "f"
+  },
+  "Joghurt|jogurt": {
+    "genus": "m"
+  },
+  "Kaffee|kafa": {
+    "genus": "f"
+  },
+  "Kaffeemaschine|aparat za kafu": {
+    "genus": "m"
+  },
+  "Karotte|šargarepa": {
+    "genus": "f"
+  },
+  "Kartoffel|krompir": {
+    "genus": "m"
+  },
+  "Keks|keks": {
+    "genus": "m"
+  },
+  "Knoblauch|beli luk": {
+    "genus": "m"
+  },
+  "Kohl|kupus": {
+    "genus": "m"
+  },
+  "Kuchen|kolač": {
+    "genus": "m"
+  },
+  "Käse|sir": {
+    "genus": "m"
+  },
+  "Kühlschrank|frižider": {
+    "genus": "m"
+  },
+  "Lauch|praziluk": {
+    "genus": "m"
+  },
+  "Linsen|sočivo": {
+    "genus": "n"
+  },
+  "Löffel|kašika": {
+    "genus": "f"
+  },
+  "Mandel|badem": {
+    "genus": "m"
+  },
+  "Marmelade|džem": {
+    "genus": "m"
+  },
+  "Mehl|brašno": {
+    "genus": "n"
+  },
+  "Messer|nož": {
+    "genus": "m"
+  },
+  "Mikrowelle|mikrotalasna": {
+    "genus": "f"
+  },
+  "Milch|mleko": {
+    "genus": "n"
+  },
+  "Mittagessen|ručak": {
+    "genus": "m",
+    "gen": "ručka"
+  },
+  "Nudeln|testenina": {
+    "genus": "f"
+  },
+  "Nuss|orah": {
+    "genus": "m"
+  },
+  "Obst|voće": {
+    "genus": "n"
+  },
+  "Ofen|rerna": {
+    "genus": "f"
+  },
+  "Orange (Frucht)|pomorandža": {
+    "genus": "f"
+  },
+  "Paprika|paprika": {
+    "genus": "f"
+  },
+  "Pfanne|tiganj": {
+    "genus": "m"
+  },
+  "Pfeffer|biber": {
+    "genus": "m"
+  },
+  "Pflaume|šljiva": {
+    "genus": "f"
+  },
+  "Pilz|pečurka": {
+    "genus": "f"
+  },
+  "Pommes|pomfrit": {
+    "genus": "m"
+  },
+  "Reis|pirinač": {
+    "genus": "m"
+  },
+  "Rindfleisch|govedina": {
+    "genus": "f"
+  },
+  "Saft|sok": {
+    "genus": "m"
+  },
+  "Salat|salata": {
+    "genus": "f"
+  },
+  "Salatkopf|zelena salata": {
+    "genus": "f"
+  },
+  "Salz|so": {
+    "genus": "n"
+  },
+  "Schneidebrett|daska za sečenje": {
+    "genus": "n"
+  },
+  "Schokolade|čokolada": {
+    "genus": "f"
+  },
+  "Schweinefleisch|svinjetina": {
+    "genus": "f"
+  },
+  "Schüssel|činija": {
+    "genus": "f"
+  },
+  "Serviette|salveta": {
+    "genus": "f"
+  },
+  "Sieb|cediljka": {
+    "genus": "f"
+  },
+  "Soße|sos": {
+    "genus": "m"
+  },
+  "Spüle|sudopera": {
+    "genus": "f"
+  },
+  "Spülmittel|deterdžent za sudove": {
+    "genus": "n"
+  },
+  "Suppe|supa": {
+    "genus": "f"
+  },
+  "Tasse|šolja": {
+    "genus": "f"
+  },
+  "Tee|čaj": {
+    "genus": "m"
+  },
+  "Teelöffel|kašičica": {
+    "genus": "f"
+  },
+  "Teller|tanjir": {
+    "genus": "m"
+  },
+  "Tischdecke|stolnjak": {
+    "genus": "m"
+  },
+  "Toaster|toster": {
+    "genus": "m"
+  },
+  "Tomate|paradajz": {
+    "genus": "m"
+  },
+  "Topf|lonac": {
+    "genus": "m",
+    "gen": "lonca"
+  },
+  "Torte|torta": {
+    "genus": "f"
+  },
+  "Traube|grožđe": {
+    "genus": "n"
+  },
+  "Wasser|voda": {
+    "genus": "f"
+  },
+  "Wasserkocher|kuvalo za vodu": {
+    "genus": "m"
+  },
+  "Wassermelone|lubenica": {
+    "genus": "f"
+  },
+  "Wein|vino": {
+    "genus": "n"
+  },
+  "Wurst|kobasica / salama": {
+    "genus": "f"
+  },
+  "Zitrone|limun": {
+    "genus": "m"
+  },
+  "Zucker|šećer": {
+    "genus": "m"
+  },
+  "Zwiebel|crni luk": {
+    "genus": "m"
+  },
+  "Öl|ulje": {
+    "genus": "n"
+  },
+  "das Gericht|sud / jelo": {
+    "genus": "m"
+  },
+  "Brille|naočare": {
+    "genus": "f"
+  },
+  "Bürste|četka": {
+    "genus": "f"
+  },
+  "Creme|krema": {
+    "genus": "f"
+  },
+  "Deo|dezodorans": {
+    "genus": "m"
+  },
+  "Duschgel|gel za tuširanje": {
+    "genus": "n"
+  },
+  "Geldbörse|novčanik": {
+    "genus": "m"
+  },
+  "Gürtel|kaiš": {
+    "genus": "m"
+  },
+  "Handschuhe|rukavice": {
+    "genus": "f"
+  },
+  "Hausschuhe|papuče": {
+    "genus": "f"
+  },
+  "Hemd|košulja": {
+    "genus": "f"
+  },
+  "Hose|pantalone": {
+    "genus": "f"
+  },
+  "Hut|šešir": {
+    "genus": "m"
+  },
+  "Jacke|jakna": {
+    "genus": "f"
+  },
+  "Jeans|farmerke": {
+    "genus": "f"
+  },
+  "Kamm|češalj": {
+    "genus": "m"
+  },
+  "Kette|ogrlica": {
+    "genus": "f"
+  },
+  "Kleid|haljina": {
+    "genus": "f"
+  },
+  "Koffer|kofer": {
+    "genus": "m"
+  },
+  "Mantel|kaput": {
+    "genus": "m"
+  },
+  "Mütze|kapa": {
+    "genus": "f"
+  },
+  "Nagel (Finger/Zehe)|nokat": {
+    "genus": "m",
+    "gen": "nokta"
+  },
+  "Nagelschere|makazice za nokte": {
+    "genus": "n"
+  },
+  "Parfüm|parfem": {
+    "genus": "m"
+  },
+  "Pullover|džemper": {
+    "genus": "m"
+  },
+  "Rasierer|brijač": {
+    "genus": "m"
+  },
+  "Ring|prsten": {
+    "genus": "m"
+  },
+  "Rock|suknja": {
+    "genus": "f"
+  },
+  "Rucksack|ranac": {
+    "genus": "m"
+  },
+  "Schal|šal": {
+    "genus": "m"
+  },
+  "Schuhe|cipele": {
+    "genus": "f"
+  },
+  "Seife|sapun": {
+    "genus": "m"
+  },
+  "Shampoo|šampon": {
+    "genus": "m"
+  },
+  "Socken|čarape": {
+    "genus": "f"
+  },
+  "Stiefel|čizme": {
+    "genus": "f"
+  },
+  "Sweatshirt|duks": {
+    "genus": "m"
+  },
+  "T-Shirt|majica": {
+    "genus": "f"
+  },
+  "Tasche|torba": {
+    "genus": "f"
+  },
+  "Turnschuhe|patike": {
+    "genus": "f"
+  },
+  "Uhr|sat": {
+    "genus": "m"
+  },
+  "Unterwäsche|veš": {
+    "genus": "m"
+  },
+  "Zahnbürste|četkica za zube": {
+    "genus": "n"
+  },
+  "Zahnpasta|pasta za zube": {
+    "genus": "n"
+  },
+  "das Mittel|sredstvo": {
+    "genus": "n"
+  },
+  "die Belastung|opterećenje": {
+    "genus": "n"
+  },
+  "die Einnahme|prihod / uzimanje leka": {
+    "genus": "m"
+  },
+  "die Gesundheit|zdravlje": {
+    "genus": "n"
+  },
+  "die Krankheit|bolest": {
+    "genus": "m"
+  },
+  "die Wirkung|dejstvo / efekat": {
+    "genus": "n"
+  },
+  "der Arzt|lekar": {
+    "genus": "m"
+  },
+  "die Ärztin|lekarka": {
+    "genus": "f"
+  },
+  "die Pflege|nega": {
+    "genus": "f"
+  },
+  "das Gewicht|težina": {
+    "genus": "f"
+  },
+  "Allergie|alergija": {
+    "genus": "f"
+  },
+  "Apotheke|apoteka": {
+    "genus": "f"
+  },
+  "Arzt|lekar / doktor": {
+    "genus": "m"
+  },
+  "Auge|oko": {
+    "genus": "n",
+    "plural": "oči"
+  },
+  "Bauch|stomak": {
+    "genus": "m"
+  },
+  "Bauchschmerzen|bol u stomaku": {
+    "genus": "m"
+  },
+  "Bein|noga": {
+    "genus": "f"
+  },
+  "Blut|krv": {
+    "genus": "f"
+  },
+  "Brust|grudi": {
+    "genus": "m"
+  },
+  "Ellbogen|lakat": {
+    "genus": "m",
+    "gen": "lakta"
+  },
+  "Erkältung|prehlada": {
+    "genus": "f"
+  },
+  "Fieber|temperatura": {
+    "genus": "f"
+  },
+  "Finger|prst": {
+    "genus": "m"
+  },
+  "Fuß|stopalo": {
+    "genus": "n"
+  },
+  "Gesicht|lice": {
+    "genus": "n"
+  },
+  "Grippe|grip": {
+    "genus": "m"
+  },
+  "Haar|kosa": {
+    "genus": "f"
+  },
+  "Hals|vrat / grlo": {
+    "genus": "m"
+  },
+  "Hand|ruka / šaka": {
+    "genus": "f"
+  },
+  "Haut|koža": {
+    "genus": "f"
+  },
+  "Herz|srce": {
+    "genus": "n"
+  },
+  "Husten (Nomen)|kašalj": {
+    "genus": "m"
+  },
+  "Knie|koleno": {
+    "genus": "n"
+  },
+  "Knochen|kost": {
+    "genus": "f"
+  },
+  "Kopf|glava": {
+    "genus": "f"
+  },
+  "Kopfschmerzen|glavobolja": {
+    "genus": "f"
+  },
+  "Krankenhaus|bolnica": {
+    "genus": "f"
+  },
+  "Krankenversicherung|zdravstveno osiguranje": {
+    "genus": "n"
+  },
+  "Lunge|pluća": {
+    "genus": "f"
+  },
+  "Magen|želudac": {
+    "genus": "m"
+  },
+  "Medikament|lek": {
+    "genus": "m"
+  },
+  "Mund|usta": {
+    "genus": "f"
+  },
+  "Muskel|mišić": {
+    "genus": "m"
+  },
+  "Nase|nos": {
+    "genus": "m"
+  },
+  "Ohr|uho": {
+    "genus": "n",
+    "plural": "uši"
+  },
+  "Pflaster|flaster": {
+    "genus": "m"
+  },
+  "Praxis|ordinacija": {
+    "genus": "f"
+  },
+  "Rezept|recept": {
+    "genus": "m"
+  },
+  "Rücken|leđa": {
+    "genus": "n"
+  },
+  "Rückenschmerzen|bol u leđima": {
+    "genus": "f"
+  },
+  "Salbe|mast": {
+    "genus": "f"
+  },
+  "Schmerz|bol": {
+    "genus": "m"
+  },
+  "Schnupfen|kijavica": {
+    "genus": "f"
+  },
+  "Schulter|rame": {
+    "genus": "n"
+  },
+  "Tablette|tableta": {
+    "genus": "f"
+  },
+  "Tropfen|kapi": {
+    "genus": "m"
+  },
+  "Unfall|nesreća": {
+    "genus": "f"
+  },
+  "Untersuchung|pregled": {
+    "genus": "m"
+  },
+  "Verband|zavoj": {
+    "genus": "m"
+  },
+  "Verletzung|povreda": {
+    "genus": "f"
+  },
+  "Wunde|rana": {
+    "genus": "f"
+  },
+  "Zahn|zub": {
+    "genus": "m"
+  },
+  "Zeh|nožni prst": {
+    "genus": "m"
+  },
+  "Zunge|jezik": {
+    "genus": "m"
+  },
+  "Ärztin|lekarka / doktorka": {
+    "genus": "f"
+  },
+  "das Gesicht|lice": {
+    "genus": "n"
+  },
+  "die Stimme|glas": {
+    "genus": "m"
+  },
+  "die Haltung|stav / držanje": {
+    "genus": "m"
+  },
+  "das Papier|papir": {
+    "genus": "m"
+  },
+  "die Adresse|adresa": {
+    "genus": "f"
+  },
+  "die Angelegenheit|stvar / predmet": {
+    "genus": "f"
+  },
+  "die Verantwortung|odgovornost": {
+    "genus": "f"
+  },
+  "der Standort|lokacija": {
+    "genus": "f"
+  },
+  "die Stelle|mesto / radno mesto": {
+    "genus": "n"
+  },
+  "die Verwaltung|administracija / uprava": {
+    "genus": "f"
+  },
+  "die Abgabe|predaja / rok za predaju": {
+    "genus": "f"
+  },
+  "die Frist|rok": {
+    "genus": "m"
+  },
+  "der Vorteil|prednost": {
+    "genus": "f"
+  },
+  "der Vortrag|predavanje": {
+    "genus": "n"
+  },
+  "das Abenteuer|avantura": {
+    "genus": "f"
+  },
+  "die Rechnung|račun / faktura": {
+    "genus": "m"
+  },
+  "die Zahlung|plaćanje / uplata": {
+    "genus": "n"
+  },
+  "die Antwort|odgovor": {
+    "genus": "m"
+  },
+  "die Landschaft|pejzaž / krajolik": {
+    "genus": "m"
+  },
+  "der Platz|mesto / trg": {
+    "genus": "n"
+  },
+  "der Ort|mesto": {
+    "genus": "n"
+  },
+  "die Gegend|kraj / okolina": {
+    "genus": "m"
+  },
+  "die Grenze|granica": {
+    "genus": "f"
+  },
+  "die Karte|karta / mapa": {
+    "genus": "f"
+  },
+  "die Reise|putovanje": {
+    "genus": "n"
+  },
+  "die Verbindung|veza": {
+    "genus": "f"
+  },
+  "der Weg|put": {
+    "genus": "m"
+  },
+  "die Abfahrt|polazak": {
+    "genus": "m",
+    "gen": "polaska"
+  },
+  "die Anreise|dolazak": {
+    "genus": "m",
+    "gen": "dolaska"
+  },
+  "die Fahrkarte|karta": {
+    "genus": "f"
+  },
+  "der Aufenthalt|boravak": {
+    "genus": "m"
+  },
+  "die Aussicht|pogled / perspektiva": {
+    "genus": "m"
+  },
+  "das Dorf|selo": {
+    "genus": "n"
+  },
+  "Ampel|semafor": {
+    "genus": "m"
+  },
+  "Antrag|zahtev": {
+    "genus": "m"
+  },
+  "Ausweis|lična karta": {
+    "genus": "f"
+  },
+  "Auto|auto": {
+    "genus": "m"
+  },
+  "Bahnhof|železnička stanica": {
+    "genus": "f"
+  },
+  "Bankautomat|bankomat": {
+    "genus": "m"
+  },
+  "Behörde|služba / organ": {
+    "genus": "f"
+  },
+  "Brücke|most": {
+    "genus": "f"
+  },
+  "Bus|autobus": {
+    "genus": "m"
+  },
+  "die Brücke|most": {
+    "genus": "f"
+  },
+  "Fahrkarte|karta": {
+    "genus": "f"
+  },
+  "Fahrplan|red vožnje": {
+    "genus": "n"
+  },
+  "Fahrrad|bicikl": {
+    "genus": "m"
+  },
+  "Feuerwehr|vatrogasci": {
+    "genus": "m"
+  },
+  "Flughafen|aerodrom": {
+    "genus": "m"
+  },
+  "Formular|obrazac": {
+    "genus": "m"
+  },
+  "Frist|rok": {
+    "genus": "m"
+  },
+  "Gebühr|taksa / naknada": {
+    "genus": "f"
+  },
+  "Gehweg|trotoar": {
+    "genus": "m"
+  },
+  "Haltestelle|stanica": {
+    "genus": "f"
+  },
+  "Kreuzung|raskrsnica": {
+    "genus": "f"
+  },
+  "LKW|kamion": {
+    "genus": "m"
+  },
+  "Monatskarte|mesečna karta": {
+    "genus": "f"
+  },
+  "Motorrad|motor": {
+    "genus": "m"
+  },
+  "Parkplatz|parking": {
+    "genus": "m"
+  },
+  "Pass|pasoš": {
+    "genus": "m"
+  },
+  "Platz|trg": {
+    "genus": "m"
+  },
+  "Polizei|policija": {
+    "genus": "f"
+  },
+  "Post|pošta": {
+    "genus": "f"
+  },
+  "Quittung|potvrda / račun": {
+    "genus": "f"
+  },
+  "Rathaus|opština / gradska kuća": {
+    "genus": "f"
+  },
+  "Richtung|pravac": {
+    "genus": "m"
+  },
+  "Roller|trotinet / skuter": {
+    "genus": "m"
+  },
+  "Straße|ulica": {
+    "genus": "f"
+  },
+  "Straßenbahn|tramvaj": {
+    "genus": "m"
+  },
+  "Tankstelle|benzinska pumpa": {
+    "genus": "f"
+  },
+  "Taxi|taksi": {
+    "genus": "m"
+  },
+  "Ticket|karta": {
+    "genus": "f"
+  },
+  "Tunnel|tunel": {
+    "genus": "m"
+  },
+  "U-Bahn|metro": {
+    "genus": "m"
+  },
+  "Umsteigen|presedanje": {
+    "genus": "n"
+  },
+  "Unterschrift|potpis": {
+    "genus": "m"
+  },
+  "Verspätung|kašnjenje": {
+    "genus": "n"
+  },
+  "Weg|put": {
+    "genus": "m"
+  },
+  "Werkstatt|radionica": {
+    "genus": "f"
+  },
+  "Zebrastreifen|pešački prelaz": {
+    "genus": "m"
+  },
+  "Zug|voz": {
+    "genus": "m"
+  },
+  "öffentlicher Verkehr|javni prevoz": {
+    "genus": "m"
+  },
+  "das Auto|auto": {
+    "genus": "m"
+  },
+  "der Fahrer|vozač": {
+    "genus": "m"
+  },
+  "der Führerschein|vozačka dozvola": {
+    "genus": "f"
+  },
+  "der Antrag|zahtev": {
+    "genus": "m"
+  },
+  "die Bescheinigung|potvrda": {
+    "genus": "f"
+  },
+  "die Anmeldung|prijava": {
+    "genus": "f"
+  },
+  "die Auskunft|informacija": {
+    "genus": "f"
+  },
+  "das Dokument|dokument": {
+    "genus": "m"
+  },
+  "die Angabe|podatak / navod": {
+    "genus": "m"
+  },
+  "der Wettbewerb|konkurencija / takmičenje": {
+    "genus": "f"
+  },
+  "die Stadt|grad": {
+    "genus": "m"
+  },
+  "das Gebäude|zgrada": {
+    "genus": "f"
+  },
+  "der Bewohner|stanovnik": {
+    "genus": "m"
+  },
+  "das Datum|datum": {
+    "genus": "m"
+  },
+  "Angebot|ponuda": {
+    "genus": "f"
+  },
+  "Bargeld|gotovina": {
+    "genus": "f"
+  },
+  "Bestellung|narudžbina": {
+    "genus": "f"
+  },
+  "Bon|račun": {
+    "genus": "m"
+  },
+  "Bäckerei|pekara": {
+    "genus": "f"
+  },
+  "Drogerie|drogerija": {
+    "genus": "f"
+  },
+  "Farbe|boja": {
+    "genus": "f"
+  },
+  "Garantie|garancija": {
+    "genus": "f"
+  },
+  "Geldschein|novčanica": {
+    "genus": "f"
+  },
+  "Geschäft|radnja / prodavnica": {
+    "genus": "f"
+  },
+  "Größe|veličina": {
+    "genus": "f"
+  },
+  "Kasse|kasa": {
+    "genus": "f"
+  },
+  "Kreditkarte|kreditna kartica": {
+    "genus": "f"
+  },
+  "Kunde|kupac / mušterija": {
+    "genus": "m",
+    "gen": "kupca"
+  },
+  "Laden|prodavnica": {
+    "genus": "f"
+  },
+  "Lieferung|dostava": {
+    "genus": "f"
+  },
+  "Markt|pijaca": {
+    "genus": "f"
+  },
+  "Metzgerei|mesara": {
+    "genus": "f"
+  },
+  "Münze|novčić": {
+    "genus": "m"
+  },
+  "Paket|paket": {
+    "genus": "m"
+  },
+  "Preis|cena": {
+    "genus": "f"
+  },
+  "Qualität|kvalitet": {
+    "genus": "m"
+  },
+  "Rabatt|popust": {
+    "genus": "m"
+  },
+  "Rechnung|račun": {
+    "genus": "m"
+  },
+  "Rückgabe|povraćaj": {
+    "genus": "m"
+  },
+  "Supermarkt|supermarket": {
+    "genus": "m"
+  },
+  "Umtausch|zamena": {
+    "genus": "f"
+  },
+  "Verkäufer|prodavac": {
+    "genus": "m"
+  },
+  "Warenkorb|korpa": {
+    "genus": "f"
+  },
+  "Wechselgeld|kusur": {
+    "genus": "m"
+  },
+  "das Büro|kancelarija": {
+    "genus": "f"
+  },
+  "das Ergebnis|rezultat": {
+    "genus": "m"
+  },
+  "die Aufgabe|zadatak": {
+    "genus": "m"
+  },
+  "die Pause|pauza": {
+    "genus": "f"
+  },
+  "das System|sistem": {
+    "genus": "m"
+  },
+  "die Leitung|rukovodstvo / vod": {
+    "genus": "n"
+  },
+  "die Schule|škola": {
+    "genus": "f"
+  },
+  "das Wissen|znanje": {
+    "genus": "n"
+  },
+  "das Thema|tema": {
+    "genus": "f"
+  },
+  "das Verständnis|razumevanje": {
+    "genus": "n"
+  },
+  "die Aufmerksamkeit|pažnja": {
+    "genus": "f"
+  },
+  "die Erklärung|objašnjenje": {
+    "genus": "n"
+  },
+  "der Tipp|savet": {
+    "genus": "m"
+  },
+  "der Fehler|greška": {
+    "genus": "f"
+  },
+  "der Versuch|pokušaj": {
+    "genus": "m"
+  },
+  "der Inhalt|sadržaj": {
+    "genus": "m"
+  },
+  "die Schwierigkeit|teškoća": {
+    "genus": "f"
+  },
+  "Antwort|odgovor": {
+    "genus": "m"
+  },
+  "Aufgabe|zadatak": {
+    "genus": "m"
+  },
+  "Benutzername|korisničko ime": {
+    "genus": "n"
+  },
+  "Bildschirm|ekran": {
+    "genus": "m"
+  },
+  "Bleistift|grafitna olovka": {
+    "genus": "f"
+  },
+  "Buch|knjiga": {
+    "genus": "f"
+  },
+  "Computer|računar": {
+    "genus": "m"
+  },
+  "Datei|datoteka / fajl": {
+    "genus": "f"
+  },
+  "Dokument|dokument": {
+    "genus": "m"
+  },
+  "Drucker|štampač": {
+    "genus": "m"
+  },
+  "E-Mail|imejl": {
+    "genus": "m"
+  },
+  "Frage|pitanje": {
+    "genus": "n"
+  },
+  "Gespräch|razgovor": {
+    "genus": "m"
+  },
+  "Handy|mobilni telefon": {
+    "genus": "m"
+  },
+  "Hausaufgabe|domaći zadatak": {
+    "genus": "m"
+  },
+  "Heft|sveska": {
+    "genus": "f"
+  },
+  "Internet|internet": {
+    "genus": "m"
+  },
+  "Kalender|kalendar": {
+    "genus": "m"
+  },
+  "Klasse|odeljenje / razred": {
+    "genus": "n"
+  },
+  "Kreide|kreda": {
+    "genus": "f"
+  },
+  "Laptop|laptop": {
+    "genus": "m"
+  },
+  "Lehrer|učitelj / nastavnik": {
+    "genus": "m"
+  },
+  "Lineal|lenjir": {
+    "genus": "m"
+  },
+  "Link|link": {
+    "genus": "m"
+  },
+  "Liste|spisak / lista": {
+    "genus": "m"
+  },
+  "Mappe|fascikla / mapa": {
+    "genus": "f"
+  },
+  "Maus|miš": {
+    "genus": "m"
+  },
+  "Meeting|sastanak": {
+    "genus": "m",
+    "gen": "sastanka"
+  },
+  "Nachricht|poruka": {
+    "genus": "f"
+  },
+  "Netzwerk|mreža": {
+    "genus": "f"
+  },
+  "Note|ocena": {
+    "genus": "f"
+  },
+  "Notiz|beleška": {
+    "genus": "f"
+  },
+  "Ordner|fascikla / registrator": {
+    "genus": "f"
+  },
+  "Papier|papir": {
+    "genus": "m"
+  },
+  "Passwort|lozinka": {
+    "genus": "f"
+  },
+  "Pause|odmor": {
+    "genus": "m"
+  },
+  "Projekt|projekat": {
+    "genus": "m"
+  },
+  "Prüfung|ispit": {
+    "genus": "m"
+  },
+  "Radiergummi|gumica": {
+    "genus": "f"
+  },
+  "Schule|škola": {
+    "genus": "f"
+  },
+  "Schulstunde|čas": {
+    "genus": "m"
+  },
+  "Schüler|učenik": {
+    "genus": "m"
+  },
+  "Schülerin|učenica": {
+    "genus": "f"
+  },
+  "Stift|olovka": {
+    "genus": "f"
+  },
+  "Tafel|tabla": {
+    "genus": "f"
+  },
+  "Tastatur|tastatura": {
+    "genus": "f"
+  },
+  "Telefon|telefon": {
+    "genus": "m"
+  },
+  "Unterricht|nastava / čas": {
+    "genus": "f"
+  },
+  "Webseite|veb-stranica": {
+    "genus": "f"
+  },
+  "die Sprache|jezik": {
+    "genus": "m"
+  },
+  "der Computer|računar": {
+    "genus": "m"
+  },
+  "die Technik|tehnika / tehnologija": {
+    "genus": "f"
+  },
+  "das Handy|mobilni telefon": {
+    "genus": "m"
+  },
+  "die App|aplikacija": {
+    "genus": "f"
+  },
+  "die Nutzung|korišćenje": {
+    "genus": "n"
+  },
+  "das Netzwerk|mreža": {
+    "genus": "f"
+  },
+  "die Anwendung|primena / aplikacija": {
+    "genus": "f"
+  },
+  "die Maschine|mašina": {
+    "genus": "f"
+  },
+  "die Datei|fajl / datoteka": {
+    "genus": "m"
+  },
+  "das Gerät|uređaj": {
+    "genus": "m"
+  },
+  "das Internet|internet": {
+    "genus": "m"
+  },
+  "die Luft|vazduh": {
+    "genus": "m"
+  },
+  "die Natur|priroda": {
+    "genus": "f"
+  },
+  "Baum|drvo": {
+    "genus": "n"
+  },
+  "Berg|planina": {
+    "genus": "f"
+  },
+  "Biene|pčela": {
+    "genus": "f"
+  },
+  "Blatt|list": {
+    "genus": "m"
+  },
+  "Blitz|munja": {
+    "genus": "f"
+  },
+  "Blume|cvet": {
+    "genus": "m"
+  },
+  "Donner|grom": {
+    "genus": "m"
+  },
+  "Eis (gefrorenes Wasser)|led": {
+    "genus": "m"
+  },
+  "Erde|zemlja": {
+    "genus": "f"
+  },
+  "Feld|polje": {
+    "genus": "n"
+  },
+  "Fluss|reka": {
+    "genus": "f"
+  },
+  "Frühling|proleće": {
+    "genus": "n"
+  },
+  "Gewitter|oluja": {
+    "genus": "f"
+  },
+  "Gras|trava": {
+    "genus": "f"
+  },
+  "Herbst|jesen": {
+    "genus": "f"
+  },
+  "Himmel|nebo": {
+    "genus": "n"
+  },
+  "Hitze|vrućina": {
+    "genus": "f"
+  },
+  "Huhn|kokoška": {
+    "genus": "f"
+  },
+  "Hund|pas": {
+    "genus": "m",
+    "gen": "psa"
+  },
+  "Insekt|insekt": {
+    "genus": "m"
+  },
+  "Katze|mačka": {
+    "genus": "f"
+  },
+  "Kuh|krava": {
+    "genus": "f"
+  },
+  "Kälte|hladnoća": {
+    "genus": "f"
+  },
+  "Meer|more": {
+    "genus": "n"
+  },
+  "Mücke|komarac": {
+    "genus": "m"
+  },
+  "Nebel|magla": {
+    "genus": "f"
+  },
+  "Park|park": {
+    "genus": "m"
+  },
+  "Pferd|konj": {
+    "genus": "m"
+  },
+  "Regen|kiša": {
+    "genus": "f"
+  },
+  "Schaf|ovca": {
+    "genus": "f"
+  },
+  "Schnee|sneg": {
+    "genus": "m"
+  },
+  "Schwein|svinja": {
+    "genus": "f"
+  },
+  "See|jezero": {
+    "genus": "n"
+  },
+  "Sommer|leto": {
+    "genus": "n"
+  },
+  "Sonne|sunce": {
+    "genus": "n"
+  },
+  "Stein|kamen": {
+    "genus": "m"
+  },
+  "Strand|plaža": {
+    "genus": "f"
+  },
+  "Tal|dolina": {
+    "genus": "f"
+  },
+  "Temperatur|temperatura": {
+    "genus": "f"
+  },
+  "Tier|životinja": {
+    "genus": "f"
+  },
+  "Vogel|ptica": {
+    "genus": "f"
+  },
+  "Wald|šuma": {
+    "genus": "f"
+  },
+  "Wespe|osa": {
+    "genus": "f"
+  },
+  "Wetter|vreme": {
+    "genus": "n"
+  },
+  "Wind|vetar": {
+    "genus": "m",
+    "gen": "vetra"
+  },
+  "Winter|zima": {
+    "genus": "f"
+  },
+  "Wolke|oblak": {
+    "genus": "m"
+  },
+  "der Alltag|svakodnevica": {
+    "genus": "f"
+  },
+  "die Sache|stvar": {
+    "genus": "f"
+  },
+  "der Teil|deo": {
+    "genus": "n"
+  },
+  "das Problem|problem": {
+    "genus": "m"
+  },
+  "die Gelegenheit|prilika": {
+    "genus": "f"
+  },
+  "die Hilfe|pomoć": {
+    "genus": "f"
+  },
+  "die Farbe|boja": {
+    "genus": "f"
+  },
+  "der Gegenstand|predmet": {
+    "genus": "m"
+  },
+  "die Kleidung|odeća": {
+    "genus": "f"
+  },
+  "die Ordnung|red / poredak": {
+    "genus": "m"
+  },
+  "der Fall|slučaj": {
+    "genus": "m"
+  },
+  "das Paket|paket": {
+    "genus": "m"
+  },
+  "der Stand|stanje / štand": {
+    "genus": "n"
+  },
+  "der Rat|savet": {
+    "genus": "m"
+  },
+  "Arbeit|posao": {
+    "genus": "m",
+    "gen": "posla"
+  },
+  "Besuch|poseta": {
+    "genus": "f"
+  },
+  "Bruder|brat": {
+    "genus": "m",
+    "plural": "braća"
+  },
+  "Chef|šef": {
+    "genus": "m"
+  },
+  "Cousin|rođak": {
+    "genus": "m"
+  },
+  "Cousine|rođaka": {
+    "genus": "f"
+  },
+  "Einladung|poziv": {
+    "genus": "m"
+  },
+  "Eltern|roditelji": {
+    "genus": "m"
+  },
+  "Feier|proslava": {
+    "genus": "f"
+  },
+  "Freizeit|slobodno vreme": {
+    "genus": "n"
+  },
+  "Freund|prijatelj": {
+    "genus": "m",
+    "plural": "prijatelji"
+  },
+  "Freundin|prijateljica / devojka": {
+    "genus": "f"
+  },
+  "Gast|gost": {
+    "genus": "f"
+  },
+  "Geburtstag|rođendan": {
+    "genus": "m"
+  },
+  "Geschenk|poklon": {
+    "genus": "m"
+  },
+  "Großmutter|baka": {
+    "genus": "f"
+  },
+  "Großvater|deda": {
+    "genus": "m"
+  },
+  "Haushalt|domaćinstvo": {
+    "genus": "n"
+  },
+  "Hilfe|pomoć": {
+    "genus": "f"
+  },
+  "Hochzeit|svadba": {
+    "genus": "f"
+  },
+  "Kind|dete": {
+    "genus": "n",
+    "plural": "deca"
+  },
+  "Kollege|kolega": {
+    "genus": "m"
+  },
+  "Mutter|majka": {
+    "genus": "f"
+  },
+  "Nachbar|komšija": {
+    "genus": "f"
+  },
+  "Onkel|stric / ujak": {
+    "genus": "m"
+  },
+  "Schwester|sestra": {
+    "genus": "f"
+  },
+  "Sohn|sin": {
+    "genus": "m"
+  },
+  "Streit|svađa": {
+    "genus": "f"
+  },
+  "Tante|tetka": {
+    "genus": "f"
+  },
+  "Tochter|ćerka": {
+    "genus": "f"
+  },
+  "Vater|otac": {
+    "genus": "m",
+    "gen": "oca"
+  },
+  "die Ruhe|mir": {
+    "genus": "m"
+  },
+  "das Geld|novac": {
+    "genus": "m",
+    "gen": "novca"
+  },
+  "die Bank|banka / klupa": {
+    "genus": "f"
+  },
+  "der Anlass|povod": {
+    "genus": "m"
+  },
+  "die Menge|količina / gomila": {
+    "genus": "f"
+  },
+  "die Liste|lista": {
+    "genus": "f"
+  },
+  "der Schritt|korak": {
+    "genus": "m"
+  },
+  "die Ausnahme|izuzetak": {
+    "genus": "m"
+  },
+  "die Erlaubnis|dozvola": {
+    "genus": "f"
+  },
+  "die Pflicht|obaveza": {
+    "genus": "f"
+  },
+  "die Regel|pravilo": {
+    "genus": "n"
+  },
+  "der Schaden|šteta": {
+    "genus": "f"
+  },
+  "die Beschwerde|žalba": {
+    "genus": "f"
+  },
+  "das Angebot|ponuda": {
+    "genus": "f"
+  },
+  "die Öffnung|otvaranje": {
+    "genus": "n"
+  },
+  "die Wohnung|stan": {
+    "genus": "m"
+  },
+  "der Nachbar|komšija": {
+    "genus": "f"
+  },
+  "der Haushalt|domaćinstvo / kućni poslovi": {
+    "genus": "n"
+  },
+  "die Miete|kirija": {
+    "genus": "f"
+  },
+  "das Licht|svetlo": {
+    "genus": "n"
+  },
+  "der Boden|pod / zemlja": {
+    "genus": "m"
+  },
+  "der Abend|veče": {
+    "genus": "n"
+  },
+  "der Moment|trenutak": {
+    "genus": "m",
+    "gen": "trenutka"
+  },
+  "die Zeit|vreme": {
+    "genus": "n"
+  },
+  "der Druck|pritisak": {
+    "genus": "m"
+  },
+  "die Beziehung|odnos / veza": {
+    "genus": "m"
+  },
+  "das Vertrauen|poverenje": {
+    "genus": "n"
+  },
+  "der Partner|partner": {
+    "genus": "m"
+  },
+  "das Geheimnis|tajna": {
+    "genus": "f"
+  },
+  "die Trennung|razdvajanje / raskid": {
+    "genus": "n"
+  },
+  "das Verhältnis|odnos": {
+    "genus": "m"
+  },
+  "der Bruder|brat": {
+    "genus": "m",
+    "plural": "braća"
+  },
+  "die Familie|porodica": {
+    "genus": "f"
+  },
+  "die Erziehung|vaspitanje": {
+    "genus": "n"
+  },
+  "der Angehörige|član porodice": {
+    "genus": "n"
+  },
+  "die Ehe|brak": {
+    "genus": "m"
+  },
+  "der Besuch|poseta": {
+    "genus": "f"
+  },
+  "das Gefühl|osećaj": {
+    "genus": "m"
+  },
+  "die Angst|strah": {
+    "genus": "m"
+  },
+  "die Freude|radost": {
+    "genus": "f"
+  },
+  "die Liebe|ljubav": {
+    "genus": "f"
+  },
+  "die Sorge|briga": {
+    "genus": "f"
+  },
+  "die Stimmung|raspoloženje": {
+    "genus": "n"
+  },
+  "der Traum|san": {
+    "genus": "m",
+    "gen": "sna"
+  },
+  "der Wunsch|želja": {
+    "genus": "f"
+  },
+  "die Hoffnung|nada": {
+    "genus": "f"
+  },
+  "der Verlust|gubitak": {
+    "genus": "m",
+    "gen": "gubitka"
+  },
+  "die Generation|generacija": {
+    "genus": "f"
+  },
+  "der Streit|svađa / spor": {
+    "genus": "f"
+  },
+  "das Interesse|interesovanje / interes": {
+    "genus": "n"
+  },
+  "die Fähigkeit|sposobnost": {
+    "genus": "f"
+  },
+  "die Stärke|snaga / prednost": {
+    "genus": "f"
+  },
+  "das Verhalten|ponašanje": {
+    "genus": "n"
+  },
+  "die Eigenschaft|osobina": {
+    "genus": "f"
+  },
+  "der Mensch|čovek / osoba": {
+    "genus": "m",
+    "plural": "ljudi"
+  },
+  "der Charakter|karakter": {
+    "genus": "m"
+  },
+  "die Erinnerung|sećanje": {
+    "genus": "n"
+  },
+  "der Hintergrund|pozadina": {
+    "genus": "f"
+  },
+  "die Höhe|visina / iznos": {
+    "genus": "f"
+  },
+  "das Buch|knjiga": {
+    "genus": "f"
+  },
+  "das Erlebnis|doživljaj": {
+    "genus": "m"
+  },
+  "die Vergangenheit|prošlost": {
+    "genus": "f"
+  },
+  "der Zusammenhang|veza / kontekst": {
+    "genus": "f"
+  },
+  "der Aspekt|aspekt": {
+    "genus": "m"
+  },
+  "der Gegensatz|suprotnost": {
+    "genus": "f"
+  },
+  "der Grund|razlog / osnova": {
+    "genus": "m"
+  },
+  "der Nachteil|mana / nedostatak": {
+    "genus": "f"
+  },
+  "der Vergleich|poređenje": {
+    "genus": "n"
+  },
+  "die Tatsache|činjenica": {
+    "genus": "f"
+  },
+  "die Ursache|uzrok": {
+    "genus": "m"
+  },
+  "die Folge|posledica / epizoda": {
+    "genus": "f"
+  },
+  "die Alternative|alternativa": {
+    "genus": "f"
+  },
+  "die Entscheidung|odluka": {
+    "genus": "f"
+  },
+  "die Auswahl|izbor": {
+    "genus": "m"
+  },
+  "das Gespräch|razgovor": {
+    "genus": "m"
+  },
+  "der Brief|pismo": {
+    "genus": "n"
+  },
+  "der Hinweis|napomena / ukazivanje": {
+    "genus": "f"
+  },
+  "die Beschreibung|opis": {
+    "genus": "m"
+  },
+  "die Entschuldigung|izvinjenje": {
+    "genus": "n"
+  },
+  "die Frage|pitanje": {
+    "genus": "n"
+  },
+  "die Nachricht|poruka / vest": {
+    "genus": "f"
+  },
+  "die Botschaft|poruka": {
+    "genus": "f"
+  },
+  "die Rede|govor": {
+    "genus": "m"
+  },
+  "die Wahrheit|istina": {
+    "genus": "f"
+  },
+  "die Information|informacija": {
+    "genus": "f"
+  },
+  "der Vorwurf|prigovor / optužba": {
+    "genus": "m"
+  },
+  "die Einschätzung|procena": {
+    "genus": "f"
+  },
+  "die Vermutung|pretpostavka": {
+    "genus": "f"
+  },
+  "die Ansicht|mišljenje / pogled": {
+    "genus": "n"
+  },
+  "die Meinung|mišljenje": {
+    "genus": "n"
+  },
+  "die Wahl|izbor": {
+    "genus": "m"
+  },
+  "die Debatte|debata / rasprava": {
+    "genus": "f"
+  },
+  "der Ausdruck|izraz": {
+    "genus": "m"
+  },
+  "der Blick|pogled": {
+    "genus": "m"
+  },
+  "der Eindruck|utisak": {
+    "genus": "m"
+  },
+  "die Ahnung|predstava / pojma": {
+    "genus": "f"
+  },
+  "die Zusammenarbeit|saradnja": {
+    "genus": "f"
+  },
+  "der Bereich|oblast / područje": {
+    "genus": "m"
+  },
+  "das Handwerk|zanat": {
+    "genus": "m"
+  },
+  "der Arbeitgeber|poslodavac": {
+    "genus": "m"
+  },
+  "der Arbeitnehmer|zaposleni": {
+    "genus": "m"
+  },
+  "der Beruf|zanimanje / profesija": {
+    "genus": "n"
+  },
+  "der Chef|šef": {
+    "genus": "m"
+  },
+  "der Job|posao": {
+    "genus": "m",
+    "gen": "posla"
+  },
+  "die Arbeit|posao / rad": {
+    "genus": "m",
+    "gen": "posla"
+  },
+  "die Arbeitszeit|radno vreme": {
+    "genus": "n"
+  },
+  "die Chefin|šefica": {
+    "genus": "f"
+  },
+  "die Schicht|smena / sloj": {
+    "genus": "f"
+  },
+  "die Einführung|uvođenje / uvod": {
+    "genus": "n"
+  },
+  "die Tabelle|tabela": {
+    "genus": "f"
+  },
+  "der Teilnehmer|učesnik": {
+    "genus": "m"
+  },
+  "der Feierabend|kraj radnog dana": {
+    "genus": "f"
+  },
+  "das Gehalt|plata": {
+    "genus": "f"
+  },
+  "der Lohn|plata / nadnica": {
+    "genus": "f"
+  },
+  "die Arbeitslosigkeit|nezaposlenost": {
+    "genus": "f"
+  },
+  "die Entwicklung|razvoj": {
+    "genus": "m"
+  },
+  "die Rolle|uloga": {
+    "genus": "f"
+  },
+  "die Qualität|kvalitet": {
+    "genus": "m"
+  },
+  "die Herausforderung|izazov": {
+    "genus": "m"
+  },
+  "der Bericht|izveštaj": {
+    "genus": "m"
+  },
+  "die Position|pozicija / stav": {
+    "genus": "f"
+  },
+  "der Prozess|proces": {
+    "genus": "m"
+  },
+  "die Abteilung|odeljenje": {
+    "genus": "n"
+  },
+  "die Führung|vođenje / rukovodstvo": {
+    "genus": "n"
+  },
+  "das Projekt|projekat": {
+    "genus": "m"
+  },
+  "die Forderung|zahtev": {
+    "genus": "m"
+  },
+  "die Maßnahme|mera": {
+    "genus": "f"
+  },
+  "die Sitzung|sednica / sastanak": {
+    "genus": "f"
+  },
+  "der Anspruch|zahtev / pravo": {
+    "genus": "m"
+  },
+  "der Dienst|služba / usluga": {
+    "genus": "f"
+  },
+  "die Kündigung|otkaz": {
+    "genus": "m"
+  },
+  "der Auftrag|nalog / zadatak": {
+    "genus": "m"
+  },
+  "die Firma|firma / kompanija": {
+    "genus": "f"
+  },
+  "die Leistung|učinak / usluga": {
+    "genus": "m"
+  },
+  "der Erfolg|uspeh": {
+    "genus": "m"
+  },
+  "der Zweck|svrha": {
+    "genus": "f"
+  },
+  "der Abschluss|završetak / diploma": {
+    "genus": "m"
+  },
+  "die Prüfung|ispit / provera": {
+    "genus": "m"
+  },
+  "die Ausbildung|obrazovanje / stručna obuka": {
+    "genus": "n"
+  },
+  "die Idee|ideja": {
+    "genus": "f"
+  },
+  "der Verkäufer|prodavac": {
+    "genus": "m"
+  },
+  "die Aktivität|aktivnost": {
+    "genus": "f"
+  },
+  "die Einladung|pozivnica / poziv": {
+    "genus": "f"
+  },
+  "die Veranstaltung|događaj / manifestacija": {
+    "genus": "m"
+  },
+  "das Einkommen|prihod": {
+    "genus": "m"
+  },
+  "der Einfluss|uticaj": {
+    "genus": "m"
+  },
+  "die Gruppe|grupa": {
+    "genus": "f"
+  },
+  "der Vorschlag|predlog": {
+    "genus": "m"
+  },
+  "die Rückmeldung|povratna informacija": {
+    "genus": "f"
+  },
+  "die Erfahrung|iskustvo": {
+    "genus": "n"
+  },
+  "der Titel|naslov / titula": {
+    "genus": "m"
+  },
+  "die Kritik|kritika": {
+    "genus": "f"
+  },
+  "der Plan|plan": {
+    "genus": "m"
+  },
+  "das Risiko|rizik": {
+    "genus": "m"
+  },
+  "das Ziel|cilj": {
+    "genus": "m"
+  },
+  "die Möglichkeit|mogućnost": {
+    "genus": "f"
+  },
+  "die Absicht|namera": {
+    "genus": "f"
+  },
+  "die Voraussetzung|preduslov": {
+    "genus": "m"
+  },
+  "die Abstimmung|glasanje / usklađivanje": {
+    "genus": "n"
+  },
+  "die Lösung|rešenje": {
+    "genus": "n"
+  },
+  "der Vertrag|ugovor": {
+    "genus": "m"
+  },
+  "der Anwalt|advokat": {
+    "genus": "m"
+  },
+  "das Mitglied|član": {
+    "genus": "m"
+  },
+  "die Veränderung|promena": {
+    "genus": "f"
+  },
+  "die Grundlage|osnova": {
+    "genus": "f"
+  },
+  "der Termin|termin": {
+    "genus": "m"
+  },
+  "der Anfang|početak": {
+    "genus": "m",
+    "gen": "početka"
+  },
+  "die Dauer|trajanje": {
+    "genus": "n"
+  },
+  "die Chance|šansa": {
+    "genus": "f"
+  },
+  "die Erwartung|očekivanje": {
+    "genus": "n"
+  },
+  "der Jugendliche|mlada osoba / tinejdžer": {
+    "genus": "f"
+  },
+  "die Jugend|mladost / omladina": {
+    "genus": "f"
+  },
+  "die Bildung|obrazovanje": {
+    "genus": "n"
+  },
+  "das Land|zemlja / država": {
+    "genus": "f"
+  },
+  "die Gemeinschaft|zajednica": {
+    "genus": "f"
+  },
+  "die Gesellschaft|društvo": {
+    "genus": "n"
+  },
+  "der Beitrag|doprinos / prilog": {
+    "genus": "m"
+  },
+  "der Bürger|građanin": {
+    "genus": "m",
+    "plural": "građani"
+  },
+  "die Freiheit|sloboda": {
+    "genus": "f"
+  },
+  "der Trend|trend": {
+    "genus": "m"
+  },
+  "die Herkunft|poreklo": {
+    "genus": "n"
+  },
+  "das Fest|proslava / praznik": {
+    "genus": "f"
+  },
+  "die Ausstellung|izložba": {
+    "genus": "f"
+  },
+  "die Kultur|kultura": {
+    "genus": "f"
+  },
+  "die Tradition|tradicija": {
+    "genus": "f"
+  },
+  "die Zeitung|novine": {
+    "genus": "f"
+  },
+  "die Öffentlichkeit|javnost": {
+    "genus": "f"
+  },
+  "die Werbung|reklama / oglašavanje": {
+    "genus": "f"
+  },
+  "die Partei|stranka": {
+    "genus": "f"
+  },
+  "die Regierung|vlada": {
+    "genus": "f"
+  },
+  "der Krieg|rat": {
+    "genus": "m"
+  },
+  "der Staat|država": {
+    "genus": "f"
+  },
+  "die Politik|politika": {
+    "genus": "f"
+  },
+  "das Recht|pravo": {
+    "genus": "n"
+  },
+  "das Gesetz|zakon": {
+    "genus": "m"
+  },
+  "die Sicherheit|bezbednost / sigurnost": {
+    "genus": "f"
+  },
+  "die Zukunft|budućnost": {
+    "genus": "f"
+  },
+  "das Studium|studije": {
+    "genus": "f"
+  },
+  "die Wissenschaft|nauka": {
+    "genus": "f"
+  },
+  "der Rabatt|popust": {
+    "genus": "m"
+  },
+  "der Freund|prijatelj": {
+    "genus": "m",
+    "plural": "prijatelji"
+  },
+  "die Freundin|prijateljica / devojka": {
+    "genus": "f"
+  },
+  "der Preis|cena / nagrada": {
+    "genus": "f"
+  },
+  "die Versicherung|osiguranje": {
+    "genus": "n"
+  },
+  "die Steuer|porez": {
+    "genus": "m"
+  },
+  "der Wert|vrednost": {
+    "genus": "f"
+  },
+  "der Betrag|iznos": {
+    "genus": "m"
+  },
+  "der Brand|požar": {
+    "genus": "m"
+  },
+  "der Handel|trgovina": {
+    "genus": "f"
+  },
+  "der Markt|tržište": {
+    "genus": "n"
+  },
+  "die Industrie|industrija": {
+    "genus": "f"
+  },
+  "die Wirtschaft|privreda / ekonomija": {
+    "genus": "f"
+  },
+  "das Produkt|proizvod": {
+    "genus": "m"
+  },
+  "die Ware|roba": {
+    "genus": "f"
+  },
+  "die Investition|investicija": {
+    "genus": "f"
+  },
+  "der Kunde|kupac / klijent": {
+    "genus": "m",
+    "gen": "kupca"
+  },
+  "die Dienstleistung|usluga": {
+    "genus": "f"
+  },
+  "die Kundin|kupac / klijentkinja": {
+    "genus": "m",
+    "gen": "kupca"
+  },
+  "der Gewinn|dobit / pobeda": {
+    "genus": "m"
+  },
+  "der Anteil|udeo": {
+    "genus": "m",
+    "gen": "udela"
+  },
+  "die Forschung|istraživanje": {
+    "genus": "n"
+  },
+  "die Zahl|broj": {
+    "genus": "m"
   }
 }
