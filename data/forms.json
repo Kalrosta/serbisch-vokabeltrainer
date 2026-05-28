@@ -1,1 +1,1808 @@
-{}
+{
+  "frisch|svež": {
+    "mfn": [
+      "svež",
+      "sveža",
+      "svežo"
+    ]
+  },
+  "scharf|oštar / ljut": {
+    "mfn": [
+      "oštar",
+      "oštra",
+      "oštro"
+    ]
+  },
+  "bitter|gorak": {
+    "mfn": [
+      "gorak",
+      "gorka",
+      "gorko"
+    ]
+  },
+  "durstig|žedan": {
+    "mfn": [
+      "žedan",
+      "žedna",
+      "žedno"
+    ]
+  },
+  "hungrig|gladan": {
+    "mfn": [
+      "gladan",
+      "gladna",
+      "gladno"
+    ]
+  },
+  "salzig|slan": {
+    "mfn": [
+      "slan",
+      "slna",
+      "slno"
+    ]
+  },
+  "satt|sit": {
+    "mfn": [
+      "sit",
+      "sita",
+      "sito"
+    ]
+  },
+  "sauer|kiseo": {
+    "mfn": [
+      "kiseo",
+      "kisela",
+      "kiselo"
+    ]
+  },
+  "süß|sladak": {
+    "mfn": [
+      "sladak",
+      "slatka",
+      "slatko"
+    ]
+  },
+  "reif|zreo": {
+    "mfn": [
+      "zreo",
+      "zrela",
+      "zrelo"
+    ]
+  },
+  "schmutzig|prljav": {
+    "mfn": [
+      "prljav",
+      "prljava",
+      "prljavo"
+    ]
+  },
+  "weit|širok": {
+    "mfn": [
+      "širok",
+      "široka",
+      "široko"
+    ]
+  },
+  "dünn|tanak / mršav": {
+    "mfn": [
+      "tanak",
+      "tanka",
+      "tanko"
+    ]
+  },
+  "gesund|zdrav": {
+    "mfn": [
+      "zdrav",
+      "zdrava",
+      "zdravo"
+    ]
+  },
+  "krank|bolestan": {
+    "mfn": [
+      "bolestan",
+      "bolesna",
+      "bolesno"
+    ]
+  },
+  "müde|umoran": {
+    "mfn": [
+      "umoran",
+      "umorna",
+      "umorno"
+    ]
+  },
+  "erschöpft|iscrpljen": {
+    "mfn": [
+      "iscrpljen",
+      "iscrpljena",
+      "iscrpljeno"
+    ]
+  },
+  "verantwortlich|odgovoran": {
+    "mfn": [
+      "odgovoran",
+      "odgovorna",
+      "odgovorno"
+    ]
+  },
+  "vollständig|potpun": {
+    "mfn": [
+      "potpun",
+      "potpuna",
+      "potpuno"
+    ]
+  },
+  "ruhig|miran": {
+    "mfn": [
+      "miran",
+      "mirna",
+      "mirno"
+    ]
+  },
+  "lebendig|živ / živahan": {
+    "mfn": [
+      "živ",
+      "živa",
+      "živo"
+    ]
+  },
+  "offen|otvoren": {
+    "mfn": [
+      "otvoren",
+      "otvorena",
+      "otvoreno"
+    ]
+  },
+  "nah|blizak / blizu": {
+    "mfn": [
+      "blizak",
+      "bliska",
+      "blisko"
+    ]
+  },
+  "lokal|lokalan": {
+    "mfn": [
+      "lokalan",
+      "lokalna",
+      "lokalno"
+    ]
+  },
+  "gültig|važeći": {
+    "mfn": [
+      "važeći",
+      "važeća",
+      "važeće"
+    ]
+  },
+  "sorgfältig|pažljiv / detaljan": {
+    "mfn": [
+      "pažljiv",
+      "pažljiva",
+      "pažljivo"
+    ]
+  },
+  "falsch|pogrešan": {
+    "mfn": [
+      "pogrešan",
+      "pogrešna",
+      "pogrešno"
+    ]
+  },
+  "interessant|zanimljiv": {
+    "mfn": [
+      "zanimljiv",
+      "zanimljiva",
+      "zanimljivo"
+    ]
+  },
+  "neugierig|radoznao": {
+    "mfn": [
+      "radoznao",
+      "radoznala",
+      "radoznalo"
+    ]
+  },
+  "schwierig|težak": {
+    "mfn": [
+      "težak",
+      "teška",
+      "teško"
+    ]
+  },
+  "automatisch|automatski": {
+    "mfn": [
+      "automatski",
+      "automatska",
+      "automatsko"
+    ]
+  },
+  "künstlich|veštački": {
+    "mfn": [
+      "veštački",
+      "veštačka",
+      "veštačko"
+    ]
+  },
+  "elektrisch|električni": {
+    "mfn": [
+      "električni",
+      "električna",
+      "električno"
+    ]
+  },
+  "digital|digitalan": {
+    "mfn": [
+      "digitalan",
+      "digitalna",
+      "digitalno"
+    ]
+  },
+  "grün|zelen": {
+    "mfn": [
+      "zelen",
+      "zelena",
+      "zeleno"
+    ]
+  },
+  "bewölkt|oblačno": {
+    "mfn": [
+      "oblačno",
+      "oblačnoa",
+      "oblačnoo"
+    ]
+  },
+  "heiß|vruć": {
+    "mfn": [
+      "vruć",
+      "vruća",
+      "vrućo"
+    ]
+  },
+  "kalt|hladan": {
+    "mfn": [
+      "hladan",
+      "hladna",
+      "hladno"
+    ]
+  },
+  "regnerisch|kišovito": {
+    "mfn": [
+      "kišovito",
+      "kišovitoa",
+      "kišovitoo"
+    ]
+  },
+  "sonnig|sunčano": {
+    "mfn": [
+      "sunčano",
+      "sunčanoa",
+      "sunčanoo"
+    ]
+  },
+  "windig|vetrovito": {
+    "mfn": [
+      "vetrovito",
+      "vetrovitoa",
+      "vetrovitoo"
+    ]
+  },
+  "nachhaltig|održiv": {
+    "mfn": [
+      "održiv",
+      "održiva",
+      "održivo"
+    ]
+  },
+  "trocken|suv": {
+    "mfn": [
+      "suv",
+      "suva",
+      "suvo"
+    ]
+  },
+  "hilfreich|koristan": {
+    "mfn": [
+      "koristan",
+      "korisna",
+      "korisno"
+    ]
+  },
+  "ordentlich|uredan": {
+    "mfn": [
+      "uredan",
+      "uredna",
+      "uredno"
+    ]
+  },
+  "praktisch|praktičan": {
+    "mfn": [
+      "praktičan",
+      "praktična",
+      "praktično"
+    ]
+  },
+  "toll|sjajan": {
+    "mfn": [
+      "sjajan",
+      "sjajna",
+      "sjajno"
+    ]
+  },
+  "gewöhnlich|običan / obično": {
+    "mfn": [
+      "običan",
+      "obična",
+      "obično"
+    ]
+  },
+  "blöd|glup / bezveze": {
+    "mfn": [
+      "glup",
+      "glupa",
+      "glupo"
+    ]
+  },
+  "anstrengend|naporan": {
+    "mfn": [
+      "naporan",
+      "naporna",
+      "naporno"
+    ]
+  },
+  "bereit|spreman": {
+    "mfn": [
+      "spreman",
+      "spremna",
+      "spremno"
+    ]
+  },
+  "dringend|hitan / hitno": {
+    "mfn": [
+      "hitan",
+      "hitna",
+      "hitno"
+    ]
+  },
+  "stressig|stresan": {
+    "mfn": [
+      "stresan",
+      "stresna",
+      "stresno"
+    ]
+  },
+  "vorhanden|prisutan / dostupan": {
+    "mfn": [
+      "prisutan",
+      "prisutna",
+      "prisutno"
+    ]
+  },
+  "einfach|jednostavan / lako": {
+    "mfn": [
+      "jednostavan",
+      "jednostavna",
+      "jednostavno"
+    ]
+  },
+  "zufällig|slučajan / slučajno": {
+    "mfn": [
+      "slučajan",
+      "slučajna",
+      "slučajno"
+    ]
+  },
+  "allein|sam": {
+    "mfn": [
+      "sam",
+      "sama",
+      "samo"
+    ]
+  },
+  "unpünktlich|netačan": {
+    "mfn": [
+      "netačan",
+      "netačna",
+      "netačno"
+    ]
+  },
+  "entspannt|opušten": {
+    "mfn": [
+      "opušten",
+      "opuštena",
+      "opušteno"
+    ]
+  },
+  "voll|pun": {
+    "mfn": [
+      "pun",
+      "puna",
+      "puno"
+    ]
+  },
+  "übrig|preostao": {
+    "mfn": [
+      "preostao",
+      "preostala",
+      "preostalo"
+    ]
+  },
+  "nett|fin / ljubazan": {
+    "mfn": [
+      "fin",
+      "fina",
+      "fino"
+    ]
+  },
+  "nass|mokar": {
+    "mfn": [
+      "mokar",
+      "mokra",
+      "mokro"
+    ]
+  },
+  "bequem|udoban": {
+    "mfn": [
+      "udoban",
+      "udobna",
+      "udobno"
+    ]
+  },
+  "sauber|čist": {
+    "mfn": [
+      "čist",
+      "čista",
+      "čisto"
+    ]
+  },
+  "häuslich|kućni": {
+    "mfn": [
+      "kućni",
+      "kućna",
+      "kućno"
+    ]
+  },
+  "erwachsen|odrastao": {
+    "mfn": [
+      "odrastao",
+      "odrasla",
+      "odraslo"
+    ]
+  },
+  "belastbar|izdržljiv / otporan": {
+    "mfn": [
+      "izdržljiv",
+      "izdržljiva",
+      "izdržljivo"
+    ]
+  },
+  "erfahren|iskusan": {
+    "mfn": [
+      "iskusan",
+      "iskusna",
+      "iskusno"
+    ]
+  },
+  "flexibel|fleksibilan": {
+    "mfn": [
+      "fleksibilan",
+      "fleksibilna",
+      "fleksibilno"
+    ]
+  },
+  "kompetent|stručan / kompetentan": {
+    "mfn": [
+      "stručan",
+      "stručna",
+      "stručno"
+    ]
+  },
+  "organisiert|organizovan": {
+    "mfn": [
+      "organizovan",
+      "organizovna",
+      "organizovno"
+    ]
+  },
+  "selbstständig|samostalan": {
+    "mfn": [
+      "samostalan",
+      "samostalna",
+      "samostalno"
+    ]
+  },
+  "eng|tesan / uzak": {
+    "mfn": [
+      "tesan",
+      "tesna",
+      "tesno"
+    ]
+  },
+  "erstaunlich|iznenađujući": {
+    "mfn": [
+      "iznenađujući",
+      "iznenađujuća",
+      "iznenađujuće"
+    ]
+  },
+  "komisch|čudan / smešan": {
+    "mfn": [
+      "čudan",
+      "čudna",
+      "čudno"
+    ]
+  },
+  "gemeinsam|zajednički": {
+    "mfn": [
+      "zajednički",
+      "zajednička",
+      "zajedničko"
+    ]
+  },
+  "vertraut|poznat / blizak": {
+    "mfn": [
+      "poznat",
+      "poznata",
+      "poznato"
+    ]
+  },
+  "begeistert|oduševljen": {
+    "mfn": [
+      "oduševljen",
+      "oduševljena",
+      "oduševljeno"
+    ]
+  },
+  "froh|radostan / srećan": {
+    "mfn": [
+      "radostan",
+      "radosna",
+      "radosno"
+    ]
+  },
+  "glücklich|srećan": {
+    "mfn": [
+      "srećan",
+      "srećna",
+      "srećno"
+    ]
+  },
+  "nervös|nervozan": {
+    "mfn": [
+      "nervozan",
+      "nervozna",
+      "nervozno"
+    ]
+  },
+  "traurig|tužan": {
+    "mfn": [
+      "tužan",
+      "tužna",
+      "tužno"
+    ]
+  },
+  "wütend|besan": {
+    "mfn": [
+      "besan",
+      "besna",
+      "besno"
+    ]
+  },
+  "angenehm|prijatan": {
+    "mfn": [
+      "prijatan",
+      "prijatna",
+      "prijatno"
+    ]
+  },
+  "unangenehm|neprijatan": {
+    "mfn": [
+      "neprijatan",
+      "neprijatna",
+      "neprijatno"
+    ]
+  },
+  "unzufrieden|nezadovoljan": {
+    "mfn": [
+      "nezadovoljan",
+      "nezadovoljna",
+      "nezadovoljno"
+    ]
+  },
+  "zufrieden|zadovoljan": {
+    "mfn": [
+      "zadovoljan",
+      "zadovoljna",
+      "zadovoljno"
+    ]
+  },
+  "dankbar|zahvalan": {
+    "mfn": [
+      "zahvalan",
+      "zahvalna",
+      "zahvalno"
+    ]
+  },
+  "heftig|žestok": {
+    "mfn": [
+      "žestok",
+      "žestoka",
+      "žestoko"
+    ]
+  },
+  "böse|ljut / zao": {
+    "mfn": [
+      "ljut",
+      "ljuta",
+      "ljuto"
+    ]
+  },
+  "ängstlich|uplašen / plašljiv": {
+    "mfn": [
+      "uplašen",
+      "uplašena",
+      "uplašeno"
+    ]
+  },
+  "aktiv|aktivan": {
+    "mfn": [
+      "aktivan",
+      "aktivna",
+      "aktivno"
+    ]
+  },
+  "individuell|individualan": {
+    "mfn": [
+      "individualan",
+      "individualna",
+      "individualno"
+    ]
+  },
+  "zuverlässig|pouzdan": {
+    "mfn": [
+      "pouzdan",
+      "pouzdna",
+      "pouzdno"
+    ]
+  },
+  "schwach|slab": {
+    "mfn": [
+      "slab",
+      "slaba",
+      "slabo"
+    ]
+  },
+  "stark|jak": {
+    "mfn": [
+      "jak",
+      "jaka",
+      "jako"
+    ]
+  },
+  "charmant|šarmantan": {
+    "mfn": [
+      "šarmantan",
+      "šarmantna",
+      "šarmantno"
+    ]
+  },
+  "empfindlich|osetljiv": {
+    "mfn": [
+      "osetljiv",
+      "osetljiva",
+      "osetljivo"
+    ]
+  },
+  "locker|opušten / labav": {
+    "mfn": [
+      "opušten",
+      "opuštena",
+      "opušteno"
+    ]
+  },
+  "aufmerksam|pažljiv": {
+    "mfn": [
+      "pažljiv",
+      "pažljiva",
+      "pažljivo"
+    ]
+  },
+  "ehrlich|iskren": {
+    "mfn": [
+      "iskren",
+      "iskrena",
+      "iskreno"
+    ]
+  },
+  "freundlich|ljubazan": {
+    "mfn": [
+      "ljubazan",
+      "ljubazna",
+      "ljubazno"
+    ]
+  },
+  "persönlich|lični": {
+    "mfn": [
+      "lični",
+      "lična",
+      "lično"
+    ]
+  },
+  "bekannt|poznat": {
+    "mfn": [
+      "poznat",
+      "poznata",
+      "poznato"
+    ]
+  },
+  "unabhängig|nezavisan": {
+    "mfn": [
+      "nezavisan",
+      "nezavisna",
+      "nezavisno"
+    ]
+  },
+  "streng|strog": {
+    "mfn": [
+      "strog",
+      "stroga",
+      "strogo"
+    ]
+  },
+  "ernst|ozbiljan": {
+    "mfn": [
+      "ozbiljan",
+      "ozbiljna",
+      "ozbiljno"
+    ]
+  },
+  "bescheiden|skroman": {
+    "mfn": [
+      "skroman",
+      "skromna",
+      "skromno"
+    ]
+  },
+  "mutig|hrabar": {
+    "mfn": [
+      "hrabar",
+      "hrabra",
+      "hrabro"
+    ]
+  },
+  "warm|topao": {
+    "mfn": [
+      "topao",
+      "topla",
+      "toplo"
+    ]
+  },
+  "speziell|poseban / specijalan": {
+    "mfn": [
+      "poseban",
+      "posebna",
+      "posebno"
+    ]
+  },
+  "alt|star": {
+    "mfn": [
+      "star",
+      "stra",
+      "stro"
+    ]
+  },
+  "breit|širok": {
+    "mfn": [
+      "širok",
+      "široka",
+      "široko"
+    ]
+  },
+  "klein|mali": {
+    "mfn": [
+      "mali",
+      "mala",
+      "malo"
+    ]
+  },
+  "leer|prazan": {
+    "mfn": [
+      "prazan",
+      "prazna",
+      "prazno"
+    ]
+  },
+  "stattlich|impozantan": {
+    "mfn": [
+      "impozantan",
+      "impozantna",
+      "impozantno"
+    ]
+  },
+  "weich|mek": {
+    "mfn": [
+      "mek",
+      "meka",
+      "meko"
+    ]
+  },
+  "abhängig|zavisan": {
+    "mfn": [
+      "zavisan",
+      "zavisna",
+      "zavisno"
+    ]
+  },
+  "tief|dubok": {
+    "mfn": [
+      "dubok",
+      "duboka",
+      "duboko"
+    ]
+  },
+  "attraktiv|privlačan": {
+    "mfn": [
+      "privlačan",
+      "privlačna",
+      "privlačno"
+    ]
+  },
+  "braun|braon": {
+    "mfn": [
+      "braon",
+      "braona",
+      "braono"
+    ]
+  },
+  "eckig|četvrtast": {
+    "mfn": [
+      "četvrtast",
+      "četvrtasta",
+      "četvrtasto"
+    ]
+  },
+  "fertig|gotov": {
+    "mfn": [
+      "gotov",
+      "gotova",
+      "gotovo"
+    ]
+  },
+  "gelb|žut": {
+    "mfn": [
+      "žut",
+      "žuta",
+      "žuto"
+    ]
+  },
+  "geschlossen|zatvoren": {
+    "mfn": [
+      "zatvoren",
+      "zatvorena",
+      "zatvoreno"
+    ]
+  },
+  "grau|siv": {
+    "mfn": [
+      "siv",
+      "siva",
+      "sivo"
+    ]
+  },
+  "kaputt|pokvaren": {
+    "mfn": [
+      "pokvaren",
+      "pokvarena",
+      "pokvareno"
+    ]
+  },
+  "leise|tih": {
+    "mfn": [
+      "tih",
+      "tiha",
+      "tiho"
+    ]
+  },
+  "lila|ljubičast": {
+    "mfn": [
+      "ljubičast",
+      "ljubičasta",
+      "ljubičasto"
+    ]
+  },
+  "orange (Farbe)|narandžast": {
+    "mfn": [
+      "narandžast",
+      "narandžasta",
+      "narandžasto"
+    ]
+  },
+  "rosa|roze": {
+    "mfn": [
+      "roze",
+      "roze",
+      "roze"
+    ]
+  },
+  "rot|crven": {
+    "mfn": [
+      "crven",
+      "crvena",
+      "crveno"
+    ]
+  },
+  "rund|okrugao": {
+    "mfn": [
+      "okrugao",
+      "okrugla",
+      "okruglo"
+    ]
+  },
+  "schwarz|crn": {
+    "mfn": [
+      "crn",
+      "crna",
+      "crno"
+    ]
+  },
+  "schwer|težak": {
+    "mfn": [
+      "težak",
+      "teška",
+      "teško"
+    ]
+  },
+  "weiß|beo": {
+    "mfn": [
+      "beo",
+      "bela",
+      "belo"
+    ]
+  },
+  "dunkel|taman / mračan": {
+    "mfn": [
+      "taman",
+      "tamna",
+      "tamno"
+    ]
+  },
+  "hell|svetao": {
+    "mfn": [
+      "svetao",
+      "svetla",
+      "svetlo"
+    ]
+  },
+  "hoch|visok": {
+    "mfn": [
+      "visok",
+      "visoka",
+      "visoko"
+    ]
+  },
+  "blau|plav": {
+    "mfn": [
+      "plav",
+      "plava",
+      "plavo"
+    ]
+  },
+  "bunt|šaren": {
+    "mfn": [
+      "šaren",
+      "šarena",
+      "šareno"
+    ]
+  },
+  "flüssig|tečan": {
+    "mfn": [
+      "tečan",
+      "tečna",
+      "tečno"
+    ]
+  },
+  "besonders|poseban / posebno": {
+    "mfn": [
+      "poseban",
+      "posebna",
+      "posebno"
+    ]
+  },
+  "spannend|uzbudljiv / zanimljiv": {
+    "mfn": [
+      "uzbudljiv",
+      "uzbudljiva",
+      "uzbudljivo"
+    ]
+  },
+  "häufig|čest / često": {
+    "mfn": [
+      "čest",
+      "česta",
+      "često"
+    ]
+  },
+  "selten|redak / retko": {
+    "mfn": [
+      "redak",
+      "retka",
+      "retko"
+    ]
+  },
+  "erheblich|znatan": {
+    "mfn": [
+      "znatan",
+      "znatna",
+      "znatno"
+    ]
+  },
+  "zahlreich|brojan": {
+    "mfn": [
+      "brojan",
+      "brojna",
+      "brojno"
+    ]
+  },
+  "gering|mali / nizak": {
+    "mfn": [
+      "mali",
+      "mala",
+      "malo"
+    ]
+  },
+  "gewaltig|ogroman": {
+    "mfn": [
+      "ogroman",
+      "ogromna",
+      "ogromno"
+    ]
+  },
+  "doppelt|dupli": {
+    "mfn": [
+      "dupli",
+      "dupla",
+      "duplo"
+    ]
+  },
+  "knapp|tesan / jedva dovoljan": {
+    "mfn": [
+      "tesan",
+      "tesna",
+      "tesno"
+    ]
+  },
+  "gleich|isti / odmah": {
+    "mfn": [
+      "isti",
+      "ista",
+      "isto"
+    ]
+  },
+  "früh|rano": {
+    "mfn": [
+      "rano",
+      "ranoa",
+      "ranoo"
+    ]
+  },
+  "früher|raniji / ranije": {
+    "mfn": [
+      "raniji",
+      "ranija",
+      "ranije"
+    ]
+  },
+  "spät|kasno": {
+    "mfn": [
+      "kasno",
+      "kasnoa",
+      "kasnoo"
+    ]
+  },
+  "neu|nov": {
+    "mfn": [
+      "nov",
+      "nova",
+      "novo"
+    ]
+  },
+  "langsam|spor / polako": {
+    "mfn": [
+      "spor",
+      "spora",
+      "sporo"
+    ]
+  },
+  "schnell|brz / brzo": {
+    "mfn": [
+      "brz",
+      "brza",
+      "brzo"
+    ]
+  },
+  "kurz|kratak": {
+    "mfn": [
+      "kratak",
+      "kratka",
+      "kratko"
+    ]
+  },
+  "lang|dug": {
+    "mfn": [
+      "dug",
+      "duga",
+      "dugo"
+    ]
+  },
+  "ständig|stalan / stalno": {
+    "mfn": [
+      "stalan",
+      "stalna",
+      "stalno"
+    ]
+  },
+  "wesentlich|suštinski / bitan": {
+    "mfn": [
+      "suštinski",
+      "suštinska",
+      "suštinsko"
+    ]
+  },
+  "allgemein|opšti": {
+    "mfn": [
+      "opšti",
+      "opšta",
+      "opšte"
+    ]
+  },
+  "überzeugend|ubedljiv": {
+    "mfn": [
+      "ubedljiv",
+      "ubedljiva",
+      "ubedljivo"
+    ]
+  },
+  "logisch|logičan": {
+    "mfn": [
+      "logičan",
+      "logična",
+      "logično"
+    ]
+  },
+  "direkt|direktan": {
+    "mfn": [
+      "direktan",
+      "direktna",
+      "direktno"
+    ]
+  },
+  "höflich|ljubazan / učtiv": {
+    "mfn": [
+      "ljubazan",
+      "ljubazna",
+      "ljubazno"
+    ]
+  },
+  "klar|jasan": {
+    "mfn": [
+      "jasan",
+      "jasna",
+      "jasno"
+    ]
+  },
+  "verständlich|razumljiv": {
+    "mfn": [
+      "razumljiv",
+      "razumljiva",
+      "razumljivo"
+    ]
+  },
+  "deutlich|jasan / jasno": {
+    "mfn": [
+      "jasan",
+      "jasna",
+      "jasno"
+    ]
+  },
+  "genau|tačan / tačno": {
+    "mfn": [
+      "tačan",
+      "tačna",
+      "tačno"
+    ]
+  },
+  "erreichbar|dostupan / dostižan": {
+    "mfn": [
+      "dostupan",
+      "dostupna",
+      "dostupno"
+    ]
+  },
+  "kritisch|kritičan": {
+    "mfn": [
+      "kritičan",
+      "kritična",
+      "kritično"
+    ]
+  },
+  "einverstanden|saglasan": {
+    "mfn": [
+      "saglasan",
+      "saglasna",
+      "saglasno"
+    ]
+  },
+  "bestimmt|određen / sigurno": {
+    "mfn": [
+      "određen",
+      "određena",
+      "određeno"
+    ]
+  },
+  "relativ|relativan / relativno": {
+    "mfn": [
+      "relativan",
+      "relativna",
+      "relativno"
+    ]
+  },
+  "wirklich|stvaran / zaista": {
+    "mfn": [
+      "stvaran",
+      "stvarna",
+      "stvarno"
+    ]
+  },
+  "eigentlich|stvaran / zapravo": {
+    "mfn": [
+      "stvaran",
+      "stvarna",
+      "stvarno"
+    ]
+  },
+  "wahrscheinlich|verovatan / verovatno": {
+    "mfn": [
+      "verovatan",
+      "verovatna",
+      "verovatno"
+    ]
+  },
+  "sicher|siguran / bezbedan": {
+    "mfn": [
+      "siguran",
+      "sigurna",
+      "sigurno"
+    ]
+  },
+  "besser|bolji": {
+    "mfn": [
+      "bolji",
+      "bolja",
+      "bolje"
+    ]
+  },
+  "unterschiedlich|različit": {
+    "mfn": [
+      "različit",
+      "različita",
+      "različito"
+    ]
+  },
+  "verschieden|različit": {
+    "mfn": [
+      "različit",
+      "različita",
+      "različito"
+    ]
+  },
+  "ähnlich|sličan": {
+    "mfn": [
+      "sličan",
+      "slična",
+      "slično"
+    ]
+  },
+  "gleichzeitig|istovremen": {
+    "mfn": [
+      "istovremen",
+      "istovremena",
+      "istovremeno"
+    ]
+  },
+  "umfassend|sveobuhvatan": {
+    "mfn": [
+      "sveobuhvatan",
+      "sveobuhvatna",
+      "sveobuhvatno"
+    ]
+  },
+  "zentral|centralan / ključan": {
+    "mfn": [
+      "centralan",
+      "centralna",
+      "centralno"
+    ]
+  },
+  "professionell|profesionalan": {
+    "mfn": [
+      "profesionalan",
+      "profesionalna",
+      "profesionalno"
+    ]
+  },
+  "beruflich|poslovni / profesionalni": {
+    "mfn": [
+      "poslovni",
+      "poslovna",
+      "poslovno"
+    ]
+  },
+  "strukturiert|strukturiran": {
+    "mfn": [
+      "strukturiran",
+      "strukturirna",
+      "strukturirno"
+    ]
+  },
+  "engagiert|angažovan": {
+    "mfn": [
+      "angažovan",
+      "angažovna",
+      "angažovno"
+    ]
+  },
+  "erfolgreich|uspešan": {
+    "mfn": [
+      "uspešan",
+      "uspešna",
+      "uspešno"
+    ]
+  },
+  "entscheidend|presudan": {
+    "mfn": [
+      "presudan",
+      "presudna",
+      "presudno"
+    ]
+  },
+  "hart|tvrd / težak": {
+    "mfn": [
+      "tvrd",
+      "tvrda",
+      "tvrdo"
+    ]
+  },
+  "fest|čvrst / stalan": {
+    "mfn": [
+      "čvrst",
+      "čvrsta",
+      "čvrsto"
+    ]
+  },
+  "geeignet|pogodan": {
+    "mfn": [
+      "pogodan",
+      "pogodna",
+      "pogodno"
+    ]
+  },
+  "nützlich|koristan": {
+    "mfn": [
+      "koristan",
+      "korisna",
+      "korisno"
+    ]
+  },
+  "wichtig|važan": {
+    "mfn": [
+      "važan",
+      "važna",
+      "važno"
+    ]
+  },
+  "sinnvoll|smislen": {
+    "mfn": [
+      "smislen",
+      "smislena",
+      "smisleno"
+    ]
+  },
+  "freiwillig|dobrovoljan": {
+    "mfn": [
+      "dobrovoljan",
+      "dobrovoljna",
+      "dobrovoljno"
+    ]
+  },
+  "präzise|precizan": {
+    "mfn": [
+      "precizan",
+      "precizna",
+      "precizno"
+    ]
+  },
+  "konkret|konkretan": {
+    "mfn": [
+      "konkretan",
+      "konkretna",
+      "konkretno"
+    ]
+  },
+  "einzeln|pojedinačan": {
+    "mfn": [
+      "pojedinačan",
+      "pojedinačna",
+      "pojedinačno"
+    ]
+  },
+  "möglich|moguć": {
+    "mfn": [
+      "moguć",
+      "moguća",
+      "mogućo"
+    ]
+  },
+  "realistisch|realističan": {
+    "mfn": [
+      "realističan",
+      "realistična",
+      "realistično"
+    ]
+  },
+  "langfristig|dugoročan": {
+    "mfn": [
+      "dugoročan",
+      "dugoročna",
+      "dugoročno"
+    ]
+  },
+  "erforderlich|potreban / neophodan": {
+    "mfn": [
+      "potreban",
+      "potrebna",
+      "potrebno"
+    ]
+  },
+  "notwendig|neophodan / potreban": {
+    "mfn": [
+      "neophodan",
+      "neophodna",
+      "neophodno"
+    ]
+  },
+  "verfügbar|dostupan": {
+    "mfn": [
+      "dostupan",
+      "dostupna",
+      "dostupno"
+    ]
+  },
+  "konsequent|dosledan": {
+    "mfn": [
+      "dosledan",
+      "dosledna",
+      "dosledno"
+    ]
+  },
+  "fair|fer / pošten": {
+    "mfn": [
+      "fer",
+      "fera",
+      "fero"
+    ]
+  },
+  "pünktlich|tačan / na vreme": {
+    "mfn": [
+      "tačan",
+      "tačna",
+      "tačno"
+    ]
+  },
+  "zeitlich|vremenski": {
+    "mfn": [
+      "vremenski",
+      "vremenska",
+      "vremensko"
+    ]
+  },
+  "typisch|tipičan": {
+    "mfn": [
+      "tipičan",
+      "tipična",
+      "tipično"
+    ]
+  },
+  "reich|bogat": {
+    "mfn": [
+      "bogat",
+      "bogata",
+      "bogato"
+    ]
+  },
+  "historisch|istorijski": {
+    "mfn": [
+      "istorijski",
+      "istorijska",
+      "istorijsko"
+    ]
+  },
+  "sozial|socijalan / društveni": {
+    "mfn": [
+      "socijalan",
+      "socijalna",
+      "socijalno"
+    ]
+  },
+  "arm|siromašan": {
+    "mfn": [
+      "siromašan",
+      "siromašna",
+      "siromašno"
+    ]
+  },
+  "öffentlich|javan": {
+    "mfn": [
+      "javan",
+      "javna",
+      "javno"
+    ]
+  },
+  "international|međunarodni": {
+    "mfn": [
+      "međunarodni",
+      "međunarodna",
+      "međunarodno"
+    ]
+  },
+  "klassisch|klasičan": {
+    "mfn": [
+      "klasičan",
+      "klasična",
+      "klasično"
+    ]
+  },
+  "kulturell|kulturni": {
+    "mfn": [
+      "kulturni",
+      "kulturna",
+      "kulturno"
+    ]
+  },
+  "privat|privatan": {
+    "mfn": [
+      "privatan",
+      "privatna",
+      "privatno"
+    ]
+  },
+  "begrenzt|ograničen": {
+    "mfn": [
+      "ograničen",
+      "ograničena",
+      "ograničeno"
+    ]
+  },
+  "politisch|politički": {
+    "mfn": [
+      "politički",
+      "politička",
+      "političko"
+    ]
+  },
+  "gerecht|pravedan": {
+    "mfn": [
+      "pravedan",
+      "pravedna",
+      "pravedno"
+    ]
+  },
+  "global|globalan": {
+    "mfn": [
+      "globalan",
+      "globalna",
+      "globalno"
+    ]
+  },
+  "frei|slobodan": {
+    "mfn": [
+      "slobodan",
+      "slobodna",
+      "slobodno"
+    ]
+  },
+  "aktuell|aktuelan": {
+    "mfn": [
+      "aktuelan",
+      "aktuelna",
+      "aktuelno"
+    ]
+  },
+  "regelmäßig|redovan / redovno": {
+    "mfn": [
+      "redovan",
+      "redovna",
+      "redovno"
+    ]
+  },
+  "vergleichbar|uporediv": {
+    "mfn": [
+      "uporediv",
+      "uporediva",
+      "uporedivo"
+    ]
+  },
+  "gut|dobar": {
+    "mfn": [
+      "dobar",
+      "dobra",
+      "dobro"
+    ]
+  },
+  "eigen|sopstven": {
+    "mfn": [
+      "sopstven",
+      "sopstvena",
+      "sopstveno"
+    ]
+  },
+  "negativ|negativan": {
+    "mfn": [
+      "negativan",
+      "negativna",
+      "negativno"
+    ]
+  },
+  "positiv|pozitivan": {
+    "mfn": [
+      "pozitivan",
+      "pozitivna",
+      "pozitivno"
+    ]
+  },
+  "schlecht|loš": {
+    "mfn": [
+      "loš",
+      "loša",
+      "lošo"
+    ]
+  },
+  "schön|lep": {
+    "mfn": [
+      "lep",
+      "lepa",
+      "lepo"
+    ]
+  },
+  "passend|odgovarajući": {
+    "mfn": [
+      "odgovarajući",
+      "odgovarajuća",
+      "odgovarajuće"
+    ]
+  },
+  "wertvoll|vredan": {
+    "mfn": [
+      "vredan",
+      "vredna",
+      "vredno"
+    ]
+  },
+  "leicht|lak / lako": {
+    "mfn": [
+      "lak",
+      "laka",
+      "lako"
+    ]
+  },
+  "kompliziert|komplikovan": {
+    "mfn": [
+      "komplikovan",
+      "komplikovna",
+      "komplikovno"
+    ]
+  },
+  "bewusst|svestan / namerno": {
+    "mfn": [
+      "svestan",
+      "svesna",
+      "svesno"
+    ]
+  },
+  "erhältlich|dostupan": {
+    "mfn": [
+      "dostupan",
+      "dostupna",
+      "dostupno"
+    ]
+  },
+  "günstig|povoljan": {
+    "mfn": [
+      "povoljan",
+      "povoljna",
+      "povoljno"
+    ]
+  },
+  "billig|jeftin": {
+    "mfn": [
+      "jeftin",
+      "jeftina",
+      "jeftino"
+    ]
+  },
+  "teuer|skup": {
+    "mfn": [
+      "skup",
+      "skupa",
+      "skupo"
+    ]
+  },
+  "kostenlos|besplatan": {
+    "mfn": [
+      "besplatan",
+      "besplatna",
+      "besplatno"
+    ]
+  },
+  "gefährlich|opasan": {
+    "mfn": [
+      "opasan",
+      "opasna",
+      "opasno"
+    ]
+  },
+  "laut|glasan": {
+    "mfn": [
+      "glasan",
+      "glasna",
+      "glasno"
+    ]
+  },
+  "sichtbar|vidljiv": {
+    "mfn": [
+      "vidljiv",
+      "vidljiva",
+      "vidljivo"
+    ]
+  },
+  "erkennbar|prepoznatljiv": {
+    "mfn": [
+      "prepoznatljiv",
+      "prepoznatljiva",
+      "prepoznatljivo"
+    ]
+  },
+  "wirtschaftlich|ekonomski": {
+    "mfn": [
+      "ekonomski",
+      "ekonomska",
+      "ekonomsko"
+    ]
+  },
+  "wissenschaftlich|naučni": {
+    "mfn": [
+      "naučni",
+      "naučna",
+      "naučno"
+    ]
+  },
+  "durchschnittlich|prosečan": {
+    "mfn": [
+      "prosečan",
+      "prosečna",
+      "prosečno"
+    ]
+  },
+  "zukünftig|budući": {
+    "mfn": [
+      "budući",
+      "buduća",
+      "buduće"
+    ]
+  },
+  "stabil|stabilan": {
+    "mfn": [
+      "stabilan",
+      "stabilna",
+      "stabilno"
+    ]
+  }
+}
