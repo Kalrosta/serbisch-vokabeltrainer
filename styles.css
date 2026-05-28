@@ -588,10 +588,46 @@ body {
   line-height: 1.4;
 }
 
+.note-block {
+  width: 100%;
+  margin-top: 0.85rem;
+  padding: 0.85rem 0.95rem;
+  background: var(--accent-soft);
+  border-radius: var(--radius-md);
+  border: 0.5px solid var(--border);
+  text-align: left;
+}
+
+.note-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 9px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+
+.note-label svg {
+  width: 12px;
+  height: 12px;
+}
+
+.note-text {
+  font-family: var(--font-serif);
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--text);
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
 .card-extras {
   display: flex;
-  justify-content: space-between;
-  gap: 0.5rem;
+  justify-content: space-around;
+  gap: 4px;
   margin-top: 0.75rem;
 }
 
@@ -601,12 +637,14 @@ body {
   font-family: inherit;
   font-size: 12px;
   color: var(--muted);
-  padding: 8px 10px;
+  padding: 8px 6px;
   cursor: pointer;
   display: inline-flex;
   align-items: center;
   gap: 4px;
   border-radius: var(--radius-sm);
+  white-space: nowrap;
+  min-width: 0;
 }
 
 .btn-extra:active {

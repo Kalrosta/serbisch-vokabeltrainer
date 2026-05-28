@@ -9,6 +9,7 @@ const DATA_VERSION_KEY = "srb_data_version";
 const PROGRESS_KEY = "srb_progress_v1";
 const SETTINGS_KEY = "srb_settings_v1";
 const ERRORS_KEY = "srb_errors_v1";
+const NOTES_KEY = "srb_notes_v1";
 const META_KEY = "srb_meta_v1";
 const DAILY_NEW_DEFAULT = 15;
 const BACKUP_REMIND_DAYS = 7;
@@ -24,6 +25,7 @@ const state = {
   forms: {},         // { "de|sl": { ...form info... } }
   progress: {},      // { id: card }
   errors: [],        // [{ id, comment, ts }]
+  notes: {},         // { wordId: noteString }
   meta: {            // misc app meta
     lastBackup: 0,
     learnedSinceBackup: 0,
@@ -43,6 +45,7 @@ const state = {
 function loadStored() {
   try { state.progress = JSON.parse(localStorage.getItem(PROGRESS_KEY)) || {}; } catch { state.progress = {}; }
   try { state.errors = JSON.parse(localStorage.getItem(ERRORS_KEY)) || []; } catch { state.errors = []; }
+  try { state.notes = JSON.parse(localStorage.getItem(NOTES_KEY)) || {}; } catch { state.notes = {}; }
   try { state.meta = { ...state.meta, ...(JSON.parse(localStorage.getItem(META_KEY)) || {}) }; } catch {}
   try {
     const s = JSON.parse(localStorage.getItem(SETTINGS_KEY));
@@ -52,6 +55,7 @@ function loadStored() {
 
 function saveProgress() { localStorage.setItem(PROGRESS_KEY, JSON.stringify(state.progress)); }
 function saveErrors()   { localStorage.setItem(ERRORS_KEY, JSON.stringify(state.errors)); }
+function saveNotes()    { localStorage.setItem(NOTES_KEY, JSON.stringify(state.notes)); }
 function saveMeta()     { localStorage.setItem(META_KEY, JSON.stringify(state.meta)); }
 function saveSettings() { localStorage.setItem(SETTINGS_KEY, JSON.stringify(state.settings)); }
 
@@ -147,6 +151,8 @@ const ICONS = {
   download: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>',
   skip: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="13 17 18 12 13 7"/><polyline points="6 17 11 12 6 7"/></svg>',
   flag: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15"/></svg>',
+  edit: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>',
+  bulb: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6"/><path d="M10 22h4"/><path d="M12 2a7 7 0 0 0-4 12.7c.7.5 1 1.3 1 2.1V18h6v-1.2c0-.8.3-1.6 1-2.1A7 7 0 0 0 12 2z"/></svg>',
   close: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>',
 };
 
@@ -378,18 +384,23 @@ function renderLearn(root) {
 
   root.appendChild(cardEl);
 
-  // Extras: skip + flag, immer sichtbar
+  // Extras: skip + note + flag, immer sichtbar
+  const note = state.notes[w.id];
   const extras = el(`
     <div class="card-extras">
       <button class="btn-extra" id="skip-btn" title="Wort kenne ich schon, 60 Tage pausieren">
         ${ICONS.skip}<span>Kenne ich schon</span>
       </button>
+      <button class="btn-extra" id="note-btn" title="${note ? "Eselsbrücke bearbeiten" : "Eselsbrücke hinzufügen"}">
+        ${note ? ICONS.edit : ICONS.bulb}<span>${note ? "Notiz" : "Notiz"}</span>
+      </button>
       <button class="btn-extra" id="flag-btn" title="Fehler in diesem Eintrag melden">
-        ${ICONS.flag}<span>Fehler melden</span>
+        ${ICONS.flag}<span>Fehler</span>
       </button>
     </div>
   `);
   extras.querySelector("#skip-btn").onclick = () => handleSkip(w);
+  extras.querySelector("#note-btn").onclick = () => openNoteModal(w);
   extras.querySelector("#flag-btn").onclick = () => openErrorModal(w);
   root.appendChild(extras);
 
@@ -484,6 +495,17 @@ function renderBack(w, dir) {
       `));
     }
     wrap.appendChild(exEl);
+  }
+
+  // Notiz/Eselsbrücke (persönlich)
+  const note = state.notes[w.id];
+  if (note && note.trim()) {
+    wrap.appendChild(el(`
+      <div class="note-block">
+        <div class="note-label">${ICONS.bulb}<span>Eselsbrücke</span></div>
+        <div class="note-text">${esc(note)}</div>
+      </div>
+    `));
   }
 
   return wrap;
@@ -687,6 +709,7 @@ function renderSettings(root) {
   root.appendChild(el(`<div class="section-label">Daten</div>`));
   const seenCount = Object.values(state.progress).filter(c => c.reps > 0).length;
   root.appendChild(el(`<div class="row"><span>Gelernte Karten</span><span class="meta">${seenCount}</span></div>`));
+  root.appendChild(el(`<div class="row"><span>Eigene Eselsbrücken</span><span class="meta">${Object.keys(state.notes).length}</span></div>`));
 
   const lastBackup = state.meta.lastBackup
     ? new Date(state.meta.lastBackup).toLocaleString("de-DE", { dateStyle: "short", timeStyle: "short" })
@@ -817,7 +840,55 @@ function openErrorModal(w) {
   setTimeout(() => $("error-comment").focus(), 50);
 }
 
-// ---------- Export / Import ----------
+// ---------- Note modal ----------
+function openNoteModal(w) {
+  const existing = $("note-modal");
+  if (existing) existing.remove();
+
+  const currentNote = state.notes[w.id] || "";
+
+  const backdrop = el(`
+    <div class="modal-backdrop" id="note-modal">
+      <div class="modal" onclick="event.stopPropagation()">
+        <div class="row-spread">
+          <h2>${currentNote ? "Eselsbrücke bearbeiten" : "Eselsbrücke hinzufügen"}</h2>
+          <button class="icon-btn" id="note-close">${ICONS.close}</button>
+        </div>
+        <p class="helper-text" style="margin-bottom:0.75rem">
+          <strong>${esc(w.de)} → ${esc(w.sl)}</strong>
+        </p>
+        <textarea id="note-text" placeholder="Notiere, was dir hilft, dieses Wort zu merken — Klang, Bild, Verbindung, Wortherkunft, persönliche Assoziation."></textarea>
+        <div class="action-stack mt-2">
+          <button class="btn btn-primary" id="note-save">Speichern</button>
+          ${currentNote ? `<button class="btn btn-danger" id="note-delete">Löschen</button>` : ""}
+          <button class="btn btn-ghost" id="note-cancel">Abbrechen</button>
+        </div>
+      </div>
+    </div>
+  `);
+  backdrop.onclick = () => backdrop.remove();
+  document.body.appendChild(backdrop);
+
+  $("note-text").value = currentNote;
+  $("note-close").onclick = () => backdrop.remove();
+  $("note-cancel").onclick = () => backdrop.remove();
+  $("note-save").onclick = () => {
+    const text = $("note-text").value.trim();
+    if (text) state.notes[w.id] = text;
+    else delete state.notes[w.id];
+    saveNotes();
+    backdrop.remove();
+    render();
+  };
+  const delBtn = $("note-delete");
+  if (delBtn) delBtn.onclick = () => {
+    delete state.notes[w.id];
+    saveNotes();
+    backdrop.remove();
+    render();
+  };
+  setTimeout(() => $("note-text").focus(), 50);
+}
 function exportProgress() {
   const payload = {
     type: "serbisch-b2-backup",
@@ -827,6 +898,7 @@ function exportProgress() {
     meta: state.meta,
     settings: state.settings,
     errors: state.errors,
+    notes: state.notes,
   };
   downloadJson(payload, `serbisch-b2-backup-${todayKey()}.json`);
   state.meta.lastBackup = Date.now();
@@ -876,7 +948,8 @@ function importProgress() {
         if (data.meta) state.meta = { ...state.meta, ...data.meta };
         if (data.settings) Object.assign(state.settings, data.settings);
         if (data.errors) state.errors = data.errors;
-        saveProgress(); saveMeta(); saveSettings(); saveErrors();
+        if (data.notes) state.notes = data.notes;
+        saveProgress(); saveMeta(); saveSettings(); saveErrors(); saveNotes();
         render();
       } catch (err) {
         alert("Datei nicht lesbar: " + err.message);
