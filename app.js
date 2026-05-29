@@ -441,17 +441,22 @@ function renderBack(w, dir) {
     const pairParts = (w.sl || "").split(" / ");
     if (pairParts.length >= 2 && w.wa && /verb/i.test(w.wa)) {
       const cirParts = (w.sc || "").split(" / ");
+      const formInfo = state.forms[wordKey(w)] || {};
+      const presIpf = formInfo.pres1_ipf || "";
+      const presPf = formInfo.pres1_pf || "";
       wrap.appendChild(el(`
         <div class="aspect-grid">
           <div class="aspect-box">
             <div class="aspect-label">Imperfektiv</div>
             <div class="aspect-form">${esc(pairParts[0].trim())}</div>
             ${cirParts[0] ? `<div class="aspect-cir">${esc(cirParts[0].trim())}</div>` : ""}
+            ${presIpf ? `<div class="aspect-pres">1. P. Sg. ${esc(presIpf)}</div>` : ""}
           </div>
           <div class="aspect-box pf">
             <div class="aspect-label">Perfektiv</div>
             <div class="aspect-form">${esc(pairParts[1].trim())}</div>
             ${cirParts[1] ? `<div class="aspect-cir">${esc(cirParts[1].trim())}</div>` : ""}
+            ${presPf ? `<div class="aspect-pres">1. P. Sg. ${esc(presPf)}</div>` : ""}
           </div>
         </div>
       `));
@@ -522,7 +527,9 @@ function lookupForm(w) {
     if (f.gen) s += ` · Gen. ${f.gen}`;
     return s;
   }
-  if (f.pres1) return `1. P. Sg. ${f.pres1}`;
+  // Singleton-Verben (kein Aspektpaar): pres1 als form-hint
+  // Aspektpaare bekommen die Anzeige in der aspect-grid, nicht hier
+  if (f.pres1_ipf && !f.pres1_pf) return `1. P. Sg. ${f.pres1_ipf}`;
   return "";
 }
 

@@ -4293,5 +4293,1341 @@
   },
   "die Zahl|broj": {
     "genus": "m"
+  },
+  "beschäftigen sich mit|baviti se": {
+    "pres1_ipf": "bavim se"
+  },
+  "bestellen|naručivati / naručiti": {
+    "pres1_ipf": "naručujem",
+    "pres1_pf": "naručim"
+  },
+  "essen|jesti / pojesti": {
+    "pres1_ipf": "jedem",
+    "pres1_pf": "pojedem"
+  },
+  "schmecken|imati ukus / dopadati se": {
+    "pres1_pf": "dopadam se"
+  },
+  "trinken|piti / popiti": {
+    "pres1_ipf": "pijem",
+    "pres1_pf": "popijem"
+  },
+  "backen|peći": {
+    "pres1_ipf": "pečem"
+  },
+  "braten|pržiti": {
+    "pres1_ipf": "pržim"
+  },
+  "einschenken|sipati": {
+    "pres1_ipf": "sipam"
+  },
+  "kochen|kuvati": {
+    "pres1_ipf": "kuvam"
+  },
+  "probieren|probati": {
+    "pres1_ipf": "probam"
+  },
+  "schneiden|seći": {
+    "pres1_ipf": "sečem"
+  },
+  "schälen|ljuštiti": {
+    "pres1_ipf": "ljuštim"
+  },
+  "messen|meriti / izmeriti": {
+    "pres1_ipf": "merim",
+    "pres1_pf": "izmerim"
+  },
+  "anziehen|obući": {
+    "pres1_ipf": "obučem"
+  },
+  "ausziehen|skinuti": {
+    "pres1_ipf": "skinem"
+  },
+  "bügeln|peglati": {
+    "pres1_ipf": "peglam"
+  },
+  "brechen|lomiti / slomiti": {
+    "pres1_ipf": "lomim",
+    "pres1_pf": "slomim"
+  },
+  "verschlechtern|pogoršavati / pogoršati": {
+    "pres1_ipf": "pogoršavam",
+    "pres1_pf": "pogoršam"
+  },
+  "zunehmen|povećavati se / povećati se; gojiti se": {
+    "pres1_ipf": "povećavam se",
+    "pres1_pf": "povećati se; gojim se"
+  },
+  "fühlen|osećati": {
+    "pres1_ipf": "osećam"
+  },
+  "sich fühlen|osećati se": {
+    "pres1_ipf": "osećam se"
+  },
+  "schlafen|spavati": {
+    "pres1_ipf": "spavam"
+  },
+  "untersuchen|istraživati / istražiti": {
+    "pres1_ipf": "istražujem",
+    "pres1_pf": "istražim"
+  },
+  "einnehmen|uzimati / uzeti": {
+    "pres1_ipf": "uzimam",
+    "pres1_pf": "uzmem"
+  },
+  "behandeln|lečiti / izlečiti; tretirati": {
+    "pres1_ipf": "lečim",
+    "pres1_pf": "izlečiti; tretiram"
+  },
+  "retten|spasavati / spasiti": {
+    "pres1_ipf": "spasavam",
+    "pres1_pf": "spasim"
+  },
+  "waschen|prati / oprati": {
+    "pres1_ipf": "perem",
+    "pres1_pf": "opram"
+  },
+  "atmen|disati": {
+    "pres1_ipf": "disam"
+  },
+  "bluten|krvariti": {
+    "pres1_ipf": "krvarim"
+  },
+  "husten (Verb)|kašljati": {
+    "pres1_ipf": "kašljam"
+  },
+  "niesen|kijati": {
+    "pres1_ipf": "kijam"
+  },
+  "sich ausruhen|odmarati se": {
+    "pres1_ipf": "odmaram se"
+  },
+  "sich verletzen|povrediti se": {
+    "pres1_ipf": "povredim se"
+  },
+  "wehtun|boleti": {
+    "pres1_ipf": "bolim"
+  },
+  "bewegen|pokretati / pokrenuti": {
+    "pres1_ipf": "pokretam",
+    "pres1_pf": "pokrenem"
+  },
+  "kommen|dolaziti / doći": {
+    "pres1_ipf": "dolazim",
+    "pres1_pf": "dođem"
+  },
+  "werfen|bacati / baciti": {
+    "pres1_ipf": "bacam",
+    "pres1_pf": "bacim"
+  },
+  "gehen|ići": {
+    "pres1_ipf": "idem"
+  },
+  "regeln|regulisati / srediti": {
+    "pres1_ipf": "regulisam",
+    "pres1_pf": "sredim"
+  },
+  "übernehmen|preuzimati / preuzeti": {
+    "pres1_ipf": "preuzimam",
+    "pres1_pf": "preuzmem"
+  },
+  "überweisen|uplaćivati / uplatiti": {
+    "pres1_ipf": "uplaćujem",
+    "pres1_pf": "uplatim"
+  },
+  "antworten|odgovarati / odgovoriti": {
+    "pres1_ipf": "odgovaram",
+    "pres1_pf": "odgovorim"
+  },
+  "beantworten|odgovarati / odgovoriti": {
+    "pres1_ipf": "odgovaram",
+    "pres1_pf": "odgovorim"
+  },
+  "verlassen|napuštati / napustiti": {
+    "pres1_ipf": "napuštam",
+    "pres1_pf": "napustim"
+  },
+  "liegen|ležati; nalaziti se": {
+    "pres1_ipf": "ležati; nalazim se"
+  },
+  "reisen|putovati": {
+    "pres1_ipf": "putujem"
+  },
+  "ankommen|stizati / stići": {
+    "pres1_ipf": "stizam",
+    "pres1_pf": "stignem"
+  },
+  "besuchen|posećivati / posetiti": {
+    "pres1_ipf": "posećujem",
+    "pres1_pf": "posetim"
+  },
+  "zurückkommen|vraćati se / vratiti se": {
+    "pres1_ipf": "vraćam se",
+    "pres1_pf": "vratim se"
+  },
+  "fahren|voziti se / ići": {
+    "pres1_ipf": "vozim se",
+    "pres1_pf": "idem"
+  },
+  "abbiegen|skrenuti": {
+    "pres1_ipf": "skrenem"
+  },
+  "aussteigen|izaći": {
+    "pres1_ipf": "izađem"
+  },
+  "einsteigen|ući": {
+    "pres1_ipf": "uđem"
+  },
+  "parken|parkirati": {
+    "pres1_ipf": "parkiram"
+  },
+  "überqueren|preći": {
+    "pres1_ipf": "pređem"
+  },
+  "ausfüllen|popunjavati / popuniti": {
+    "pres1_ipf": "popunjavam",
+    "pres1_pf": "popunim"
+  },
+  "anmelden|prijavljivati / prijaviti": {
+    "pres1_ipf": "prijavljujem",
+    "pres1_pf": "prijavim"
+  },
+  "nachweisen|dokazivati / dokazati": {
+    "pres1_ipf": "dokazujem",
+    "pres1_pf": "dokazam"
+  },
+  "erreichen|dostizati / dostići; stići do": {
+    "pres1_ipf": "dostizam"
+  },
+  "benutzen|koristiti / upotrebiti": {
+    "pres1_ipf": "koristim",
+    "pres1_pf": "upotrebim"
+  },
+  "prüfen|proveravati / proveriti": {
+    "pres1_ipf": "proveravam",
+    "pres1_pf": "proverim"
+  },
+  "sich bemühen|truditi se": {
+    "pres1_ipf": "trudim se"
+  },
+  "vorbereiten|pripremati / pripremiti": {
+    "pres1_ipf": "pripremam",
+    "pres1_pf": "pripremim"
+  },
+  "einsetzen|koristiti / upotrebiti": {
+    "pres1_ipf": "koristim",
+    "pres1_pf": "upotrebim"
+  },
+  "testen|testirati": {
+    "pres1_ipf": "testiram"
+  },
+  "erklären|objašnjavati / objasniti": {
+    "pres1_ipf": "objašnjavam",
+    "pres1_pf": "objasnim"
+  },
+  "verstehen|razumeti": {
+    "pres1_ipf": "razumem"
+  },
+  "senden|slati / poslati": {
+    "pres1_ipf": "slam",
+    "pres1_pf": "poslam"
+  },
+  "verbinden|povezivati / povezati": {
+    "pres1_ipf": "povezujem",
+    "pres1_pf": "povežem"
+  },
+  "zeichnen|crtati / nacrtati": {
+    "pres1_ipf": "crtam",
+    "pres1_pf": "nacrtam"
+  },
+  "erfinden|izmišljati / izmisliti": {
+    "pres1_ipf": "izmišljam",
+    "pres1_pf": "izmislim"
+  },
+  "lernen|učiti / naučiti": {
+    "pres1_ipf": "učim",
+    "pres1_pf": "naučim"
+  },
+  "ausprobieren|isprobavati / isprobati": {
+    "pres1_ipf": "isprobavam",
+    "pres1_pf": "isprobam"
+  },
+  "versuchen|pokušavati / pokušati": {
+    "pres1_ipf": "pokušavam",
+    "pres1_pf": "pokušam"
+  },
+  "herausfinden|saznavati / saznati": {
+    "pres1_ipf": "saznajem",
+    "pres1_pf": "saznam"
+  },
+  "aufschreiben|zapisivati / zapisati": {
+    "pres1_ipf": "zapisujem",
+    "pres1_pf": "zapisam"
+  },
+  "korrigieren|ispravljati / ispraviti": {
+    "pres1_ipf": "ispravljam",
+    "pres1_pf": "ispravim"
+  },
+  "verbessern|poboljšavati / poboljšati": {
+    "pres1_ipf": "poboljšavam",
+    "pres1_pf": "poboljšam"
+  },
+  "zusammenfassen|rezimirati / sažeti": {
+    "pres1_ipf": "rezimiram",
+    "pres1_pf": "sažim"
+  },
+  "aufgeben|odustajati / odustati": {
+    "pres1_ipf": "odustajam",
+    "pres1_pf": "odustam"
+  },
+  "lesen|čitati / pročitati": {
+    "pres1_ipf": "čitam",
+    "pres1_pf": "pročitam"
+  },
+  "ausschalten|isključiti": {
+    "pres1_ipf": "isključim"
+  },
+  "drucken|štampati": {
+    "pres1_ipf": "štampam"
+  },
+  "einschalten|uključiti": {
+    "pres1_ipf": "uključim"
+  },
+  "herunterladen|preuzeti": {
+    "pres1_ipf": "preuzmem"
+  },
+  "hochladen|otpremiti": {
+    "pres1_ipf": "otpremim"
+  },
+  "löschen|obrisati": {
+    "pres1_ipf": "obrisam"
+  },
+  "markieren|označiti": {
+    "pres1_ipf": "označim"
+  },
+  "rechnen|računati": {
+    "pres1_ipf": "računam"
+  },
+  "schreiben|pisati": {
+    "pres1_ipf": "pišem"
+  },
+  "unterrichten|predavati": {
+    "pres1_ipf": "predajem"
+  },
+  "wiederholen|ponoviti": {
+    "pres1_ipf": "ponovim"
+  },
+  "aufladen|puniti / napuniti": {
+    "pres1_ipf": "punim",
+    "pres1_pf": "napunim"
+  },
+  "funktionieren|funkcionisati": {
+    "pres1_ipf": "funkcionisam"
+  },
+  "nutzen|koristiti": {
+    "pres1_ipf": "koristim"
+  },
+  "speichern|čuvati / sačuvati": {
+    "pres1_ipf": "čuvam",
+    "pres1_pf": "sačuvam"
+  },
+  "herstellen|proizvoditi / proizvesti": {
+    "pres1_ipf": "proizvodim"
+  },
+  "wissen|znati": {
+    "pres1_ipf": "znam"
+  },
+  "einrichten|uređivati / urediti": {
+    "pres1_ipf": "uređujem",
+    "pres1_pf": "uredim"
+  },
+  "verbrauchen|trošiti / potrošiti": {
+    "pres1_ipf": "trošim",
+    "pres1_pf": "potrošim"
+  },
+  "diskutieren|diskutovati": {
+    "pres1_ipf": "diskutujem"
+  },
+  "gießen|zalivati": {
+    "pres1_ipf": "zalivam"
+  },
+  "pflanzen|saditi": {
+    "pres1_ipf": "sadim"
+  },
+  "spazieren gehen|šetati": {
+    "pres1_ipf": "šetam"
+  },
+  "wandern|planinariti": {
+    "pres1_ipf": "planinarim"
+  },
+  "schützen|štititi / zaštititi": {
+    "pres1_ipf": "štitim",
+    "pres1_pf": "zaštitim"
+  },
+  "aufheben|podizati / podići; čuvati / sačuvati": {
+    "pres1_ipf": "podizam",
+    "pres1_pf": "podići; čuvam"
+  },
+  "bekommen|dobijati / dobiti": {
+    "pres1_ipf": "dobijam",
+    "pres1_pf": "dobim"
+  },
+  "bleiben|ostajati / ostati": {
+    "pres1_ipf": "ostajam",
+    "pres1_pf": "ostanem"
+  },
+  "brauchen|trebati": {
+    "pres1_ipf": "trebam"
+  },
+  "bringen|donositi / doneti": {
+    "pres1_ipf": "donosim",
+    "pres1_pf": "donesem"
+  },
+  "geben|davati / dati": {
+    "pres1_ipf": "dajem",
+    "pres1_pf": "dam"
+  },
+  "kriegen|dobijati / dobiti": {
+    "pres1_ipf": "dobijam",
+    "pres1_pf": "dobim"
+  },
+  "legen|stavljati / staviti": {
+    "pres1_ipf": "stavljam",
+    "pres1_pf": "stavim"
+  },
+  "mitbringen|donositi / doneti": {
+    "pres1_ipf": "donosim",
+    "pres1_pf": "donesem"
+  },
+  "nehmen|uzimati / uzeti": {
+    "pres1_ipf": "uzimam",
+    "pres1_pf": "uzmem"
+  },
+  "setzen|stavljati / staviti": {
+    "pres1_ipf": "stavljam",
+    "pres1_pf": "stavim"
+  },
+  "sitzen|sedeti": {
+    "pres1_ipf": "sedim"
+  },
+  "decken|pokrivati / pokriti": {
+    "pres1_ipf": "pokrivam",
+    "pres1_pf": "pokrim"
+  },
+  "benötigen|trebati": {
+    "pres1_ipf": "trebam"
+  },
+  "erhalten|dobijati / dobiti": {
+    "pres1_ipf": "dobijam",
+    "pres1_pf": "dobim"
+  },
+  "erledigen|obavljati / obaviti": {
+    "pres1_ipf": "obavljam",
+    "pres1_pf": "obavim"
+  },
+  "helfen|pomagati / pomoći": {
+    "pres1_ipf": "pomagam",
+    "pres1_pf": "pomognem"
+  },
+  "schließen|zatvarati / zatvoriti": {
+    "pres1_ipf": "zatvaram",
+    "pres1_pf": "zatvorim"
+  },
+  "suchen|tražiti / potražiti": {
+    "pres1_ipf": "tražim",
+    "pres1_pf": "potražim"
+  },
+  "verwenden|koristiti / upotrebiti": {
+    "pres1_ipf": "koristim",
+    "pres1_pf": "upotrebim"
+  },
+  "empfehlen|preporučivati / preporučiti": {
+    "pres1_ipf": "preporučujem",
+    "pres1_pf": "preporučim"
+  },
+  "behalten|zadržavati / zadržati": {
+    "pres1_ipf": "zadržavam",
+    "pres1_pf": "zadržam"
+  },
+  "sammeln|skupljati / skupiti": {
+    "pres1_ipf": "skupljam",
+    "pres1_pf": "skupim"
+  },
+  "verschwinden|nestajati / nestati": {
+    "pres1_ipf": "nestajem",
+    "pres1_pf": "nestanem"
+  },
+  "aufpassen|paziti": {
+    "pres1_ipf": "pazim"
+  },
+  "stellen|stavljati / staviti": {
+    "pres1_ipf": "stavljam",
+    "pres1_pf": "stavim"
+  },
+  "drücken|pritiskati / pritisnuti": {
+    "pres1_ipf": "pritiskam",
+    "pres1_pf": "pritisnem"
+  },
+  "fehlen|nedostajati": {
+    "pres1_ipf": "nedostajam"
+  },
+  "stören|smetati": {
+    "pres1_ipf": "smetam"
+  },
+  "passen|odgovarati": {
+    "pres1_ipf": "odgovaram"
+  },
+  "tragen|nositi": {
+    "pres1_ipf": "nosim"
+  },
+  "aussuchen|birati / izabrati": {
+    "pres1_ipf": "biram",
+    "pres1_pf": "izabram"
+  },
+  "tauschen|menjati / zameniti": {
+    "pres1_ipf": "menjam",
+    "pres1_pf": "zamenim"
+  },
+  "zurückgeben|vraćati / vratiti": {
+    "pres1_ipf": "vraćam",
+    "pres1_pf": "vratim"
+  },
+  "anschauen|gledati / pogledati": {
+    "pres1_ipf": "gledam",
+    "pres1_pf": "pogledam"
+  },
+  "finden|nalaziti / naći": {
+    "pres1_ipf": "nalazim",
+    "pres1_pf": "nađem"
+  },
+  "halten|držati": {
+    "pres1_ipf": "držam"
+  },
+  "klappen|uspeti / ići dobro": {
+    "pres1_ipf": "uspim"
+  },
+  "zurechtkommen|snalaziti se / snaći se": {
+    "pres1_ipf": "snalazim se"
+  },
+  "beschweren sich|žaliti se": {
+    "pres1_ipf": "žalim se"
+  },
+  "gebrauchen|upotrebljavati / upotrebiti": {
+    "pres1_ipf": "upotrebljavam",
+    "pres1_pf": "upotrebim"
+  },
+  "wechseln|menjati / promeniti": {
+    "pres1_ipf": "menjam",
+    "pres1_pf": "promenim"
+  },
+  "verlieren|gubiti / izgubiti": {
+    "pres1_ipf": "gubim",
+    "pres1_pf": "izgubim"
+  },
+  "ziehen|vući; seliti se": {
+    "pres1_ipf": "vući; selim se"
+  },
+  "warten|čekati / sačekati": {
+    "pres1_ipf": "čekam",
+    "pres1_pf": "sačekam"
+  },
+  "abbrechen|prekidati / prekinuti": {
+    "pres1_ipf": "prekidam",
+    "pres1_pf": "prekinem"
+  },
+  "betreffen|ticati se": {
+    "pres1_ipf": "ticam se"
+  },
+  "erleichtern|olakšavati / olakšati": {
+    "pres1_ipf": "olakšavam",
+    "pres1_pf": "olakšam"
+  },
+  "ersetzen|zamenjivati / zameniti": {
+    "pres1_ipf": "zamenjujem",
+    "pres1_pf": "zamenim"
+  },
+  "führen|voditi": {
+    "pres1_ipf": "vodim"
+  },
+  "verlangen|zahtevati": {
+    "pres1_ipf": "zahtevam"
+  },
+  "verteilen|deliti / podeliti": {
+    "pres1_ipf": "delim",
+    "pres1_pf": "podelim"
+  },
+  "laufen|trčati; raditi": {
+    "pres1_ipf": "trčati; radim"
+  },
+  "vorkommen|pojavljivati se / dogoditi se": {
+    "pres1_ipf": "pojavljujem se",
+    "pres1_pf": "dogodim se"
+  },
+  "gratulieren|čestitati": {
+    "pres1_ipf": "čestitam"
+  },
+  "holen|doneti / otići po": {
+    "pres1_ipf": "donesem"
+  },
+  "lachen|smejati se": {
+    "pres1_ipf": "smejam se"
+  },
+  "reparieren|popraviti": {
+    "pres1_ipf": "popravim"
+  },
+  "saugen|usisavati": {
+    "pres1_ipf": "usisavam"
+  },
+  "sich verabschieden|oprostiti se": {
+    "pres1_ipf": "oprostim se"
+  },
+  "streiten|svađati se": {
+    "pres1_ipf": "svađam se"
+  },
+  "wegwerfen|baciti": {
+    "pres1_ipf": "bacim"
+  },
+  "weinen|plakati": {
+    "pres1_ipf": "plačem"
+  },
+  "wischen|brisati": {
+    "pres1_ipf": "brišem"
+  },
+  "bezahlen|plaćati / platiti": {
+    "pres1_ipf": "plaćam",
+    "pres1_pf": "platim"
+  },
+  "ersparen|uštedeti": {
+    "pres1_ipf": "uštedim"
+  },
+  "zahlen|plaćati / platiti": {
+    "pres1_ipf": "plaćam",
+    "pres1_pf": "platim"
+  },
+  "bedanken sich|zahvaljivati se / zahvaliti se": {
+    "pres1_ipf": "zahvaljujem se",
+    "pres1_pf": "zahvalim se"
+  },
+  "danken|zahvaljivati / zahvaliti": {
+    "pres1_ipf": "zahvaljujem",
+    "pres1_pf": "zahvalim"
+  },
+  "entschuldigen sich|izvinjavati se / izviniti se": {
+    "pres1_ipf": "izvinjavam se",
+    "pres1_pf": "izvinim se"
+  },
+  "teilen|deliti / podeliti": {
+    "pres1_ipf": "delim",
+    "pres1_pf": "podelim"
+  },
+  "leben|živeti": {
+    "pres1_ipf": "živim"
+  },
+  "begegnen|sresti / susretati": {
+    "pres1_ipf": "sretnem",
+    "pres1_pf": "susretam"
+  },
+  "erlauben|dozvoljavati / dozvoliti": {
+    "pres1_ipf": "dozvoljavam",
+    "pres1_pf": "dozvolim"
+  },
+  "beschreiben|opisivati / opisati": {
+    "pres1_ipf": "opisujem",
+    "pres1_pf": "opisam"
+  },
+  "liefern|isporučivati / isporučiti": {
+    "pres1_ipf": "isporučujem",
+    "pres1_pf": "isporučim"
+  },
+  "verkaufen|prodavati / prodati": {
+    "pres1_ipf": "prodajem",
+    "pres1_pf": "prodam"
+  },
+  "einziehen|useliti se": {
+    "pres1_ipf": "uselim se"
+  },
+  "umziehen|seliti se / preseliti se": {
+    "pres1_ipf": "selim se",
+    "pres1_pf": "preselim se"
+  },
+  "wohnen|stanovati / živeti": {
+    "pres1_ipf": "stanujem",
+    "pres1_pf": "živim"
+  },
+  "aufräumen|spremati / spremiti": {
+    "pres1_ipf": "spremam",
+    "pres1_pf": "spremim"
+  },
+  "mieten|iznajmljivati / iznajmiti": {
+    "pres1_ipf": "iznajmljujem",
+    "pres1_pf": "iznajmim"
+  },
+  "vermieten|izdavati / izdati": {
+    "pres1_ipf": "izdajem",
+    "pres1_pf": "izdam"
+  },
+  "verpassen|propuštati / propustiti": {
+    "pres1_ipf": "propuštam",
+    "pres1_pf": "propustim"
+  },
+  "loben|hvaliti / pohvaliti": {
+    "pres1_ipf": "hvalim",
+    "pres1_pf": "pohvalim"
+  },
+  "unterstützen|podržavati / podržati": {
+    "pres1_ipf": "podržavam",
+    "pres1_pf": "podržam"
+  },
+  "belasten|opterećivati / opteretiti": {
+    "pres1_ipf": "opterećujem",
+    "pres1_pf": "opteretim"
+  },
+  "vertrauen|verovati": {
+    "pres1_ipf": "verujem"
+  },
+  "trennen|odvajati / odvojiti": {
+    "pres1_ipf": "odvajam",
+    "pres1_pf": "odvojim"
+  },
+  "betreuen|brinuti o / čuvati": {
+    "pres1_pf": "čuvam"
+  },
+  "sorgen für|brinuti se za / obezbediti": {
+    "pres1_pf": "obezbedim"
+  },
+  "versorgen|snabdevati / snabdeti; brinuti o": {
+    "pres1_ipf": "snabdevam"
+  },
+  "genießen|uživati": {
+    "pres1_ipf": "uživam"
+  },
+  "beruhigen|smirivati / smiriti": {
+    "pres1_ipf": "smirujem",
+    "pres1_pf": "smirim"
+  },
+  "empfinden|osećati": {
+    "pres1_ipf": "osećam"
+  },
+  "freuen sich|radovati se / obradovati se": {
+    "pres1_ipf": "radujem se",
+    "pres1_pf": "obradujem se"
+  },
+  "wundern sich|čuditi se": {
+    "pres1_ipf": "čudim se"
+  },
+  "ärgern|ljutiti / naljutiti": {
+    "pres1_ipf": "ljutim",
+    "pres1_pf": "naljutim"
+  },
+  "überraschen|iznenađivati / iznenaditi": {
+    "pres1_ipf": "iznenađujem",
+    "pres1_pf": "iznenadim"
+  },
+  "beeindrucken|impresionirati": {
+    "pres1_ipf": "impresioniram"
+  },
+  "befürchten|plašiti se / strahovati": {
+    "pres1_ipf": "plašim se",
+    "pres1_pf": "strahujem"
+  },
+  "hoffen|nadati se": {
+    "pres1_ipf": "nadam se"
+  },
+  "wünschen|želeti / poželeti": {
+    "pres1_ipf": "želim",
+    "pres1_pf": "poželim"
+  },
+  "verraten|odavati / odati; izdati": {
+    "pres1_ipf": "odavam",
+    "pres1_pf": "odati; izdam"
+  },
+  "treffen|sretati / sresti; pogoditi": {
+    "pres1_ipf": "sretam",
+    "pres1_pf": "sresti; pogodim"
+  },
+  "kennen|poznavati": {
+    "pres1_ipf": "poznavam"
+  },
+  "anmachen|uključiti": {
+    "pres1_ipf": "uključim"
+  },
+  "ausmachen|isključiti": {
+    "pres1_ipf": "isključim"
+  },
+  "stehen|stajati": {
+    "pres1_ipf": "stajam"
+  },
+  "öffnen|otvoriti": {
+    "pres1_ipf": "otvorim"
+  },
+  "sich erinnern an|sećati se": {
+    "pres1_ipf": "sećam se"
+  },
+  "ausgehen|izlaziti / izaći": {
+    "pres1_ipf": "izlazim",
+    "pres1_pf": "izađem"
+  },
+  "dauern|trajati": {
+    "pres1_ipf": "trajam"
+  },
+  "erinnern sich|sećati se / setiti se": {
+    "pres1_ipf": "sećam se",
+    "pres1_pf": "setim se"
+  },
+  "aufhören|prestajati / prestati": {
+    "pres1_ipf": "prestajam",
+    "pres1_pf": "prestam"
+  },
+  "begründen|obrazlagati / obrazložiti": {
+    "pres1_ipf": "obrazlagam",
+    "pres1_pf": "obrazložim"
+  },
+  "behaupten|tvrditi": {
+    "pres1_ipf": "tvrdim"
+  },
+  "betonen|naglašavati / naglasiti": {
+    "pres1_ipf": "naglašavam",
+    "pres1_pf": "naglasim"
+  },
+  "beweisen|dokazivati / dokazati": {
+    "pres1_ipf": "dokazujem",
+    "pres1_pf": "dokazam"
+  },
+  "überzeugen|uveravati / uveriti": {
+    "pres1_ipf": "uveravam",
+    "pres1_pf": "uverim"
+  },
+  "überlegen|razmišljati / razmotriti": {
+    "pres1_ipf": "razmišljam",
+    "pres1_pf": "razmotrim"
+  },
+  "auswählen|birati / izabrati": {
+    "pres1_ipf": "biram",
+    "pres1_pf": "izabram"
+  },
+  "bestimmen|određivati / odrediti": {
+    "pres1_ipf": "određujem",
+    "pres1_pf": "odredim"
+  },
+  "entscheiden|odlučivati / odlučiti": {
+    "pres1_ipf": "odlučujem",
+    "pres1_pf": "odlučim"
+  },
+  "verzichten auf|odricati se / odreći se": {
+    "pres1_ipf": "odricam se"
+  },
+  "wählen|birati / izabrati": {
+    "pres1_ipf": "biram",
+    "pres1_pf": "izabram"
+  },
+  "einladen|pozivati / pozvati": {
+    "pres1_ipf": "pozivam",
+    "pres1_pf": "pozovem"
+  },
+  "versichern|osiguravati / osigurati; uveravati": {
+    "pres1_ipf": "osiguravam",
+    "pres1_pf": "osigurati; uveravam"
+  },
+  "ankündigen|najavljivati / najaviti": {
+    "pres1_ipf": "najavljujem",
+    "pres1_pf": "najavim"
+  },
+  "anrufen|zvati / pozvati": {
+    "pres1_ipf": "zovem",
+    "pres1_pf": "pozovem"
+  },
+  "ansprechen|obraćati se / obratiti se": {
+    "pres1_ipf": "obraćam se",
+    "pres1_pf": "obratim se"
+  },
+  "ausdrücken|izražavati / izraziti": {
+    "pres1_ipf": "izražavam",
+    "pres1_pf": "izrazim"
+  },
+  "beklagen sich|žaliti se": {
+    "pres1_ipf": "žalim se"
+  },
+  "erzählen|pričati / ispričati": {
+    "pres1_ipf": "pričam",
+    "pres1_pf": "ispričam"
+  },
+  "fragen|pitati / upitati": {
+    "pres1_ipf": "pitam",
+    "pres1_pf": "upitam"
+  },
+  "informieren|informisati / obavestiti": {
+    "pres1_ipf": "informisam",
+    "pres1_pf": "obavestim"
+  },
+  "kommunizieren|komunicirati": {
+    "pres1_ipf": "komuniciram"
+  },
+  "melden sich|javljati se / javiti se": {
+    "pres1_ipf": "javljam se",
+    "pres1_pf": "javim se"
+  },
+  "mitteilen|saopštavati / saopštiti": {
+    "pres1_ipf": "saopštavam",
+    "pres1_pf": "saopštim"
+  },
+  "nachfragen|pitati dodatno / raspitati se": {
+    "pres1_pf": "raspitam se"
+  },
+  "reden|pričati / razgovarati": {
+    "pres1_ipf": "pričam",
+    "pres1_pf": "razgovaram"
+  },
+  "rufen|zvati / pozvati": {
+    "pres1_ipf": "zovem",
+    "pres1_pf": "pozovem"
+  },
+  "sagen|govoriti / reći": {
+    "pres1_ipf": "govorim",
+    "pres1_pf": "kažem"
+  },
+  "schicken|slati / poslati": {
+    "pres1_ipf": "slam",
+    "pres1_pf": "poslam"
+  },
+  "sich melden|javiti se": {
+    "pres1_ipf": "javim se"
+  },
+  "sprechen|govoriti / pričati": {
+    "pres1_ipf": "govorim",
+    "pres1_pf": "pričam"
+  },
+  "unterbrechen|prekidati / prekinuti": {
+    "pres1_ipf": "prekidam",
+    "pres1_pf": "prekinem"
+  },
+  "versprechen|obećavati / obećati": {
+    "pres1_ipf": "obećavam",
+    "pres1_pf": "obećam"
+  },
+  "vorstellen|predstavljati / predstaviti": {
+    "pres1_ipf": "predstavljam",
+    "pres1_pf": "predstavim"
+  },
+  "zeigen|pokazivati / pokazati": {
+    "pres1_ipf": "pokazujem",
+    "pres1_pf": "pokažem"
+  },
+  "überreden|nagovarati / nagovoriti": {
+    "pres1_ipf": "nagovaram",
+    "pres1_pf": "nagovorim"
+  },
+  "darstellen|predstavljati / predstaviti": {
+    "pres1_ipf": "predstavljam",
+    "pres1_pf": "predstavim"
+  },
+  "wenden sich an|obratiti se": {
+    "pres1_ipf": "obratim se"
+  },
+  "berichten|izveštavati / izvestiti": {
+    "pres1_ipf": "izveštavam",
+    "pres1_pf": "izvestim"
+  },
+  "reagieren|reagovati": {
+    "pres1_ipf": "reagujem"
+  },
+  "weigern sich|odbijati / odbiti": {
+    "pres1_ipf": "odbijam",
+    "pres1_pf": "odbim"
+  },
+  "einschätzen|procenjivati / proceniti": {
+    "pres1_ipf": "procenjujem",
+    "pres1_pf": "procenim"
+  },
+  "denken|misliti": {
+    "pres1_ipf": "mislim"
+  },
+  "glauben|verovati": {
+    "pres1_ipf": "verujem"
+  },
+  "meinen|misliti": {
+    "pres1_ipf": "mislim"
+  },
+  "zustimmen|slagati se / složiti se": {
+    "pres1_ipf": "slagam se",
+    "pres1_pf": "složim se"
+  },
+  "ablehnen|odbijati / odbiti": {
+    "pres1_ipf": "odbijam",
+    "pres1_pf": "odbim"
+  },
+  "annehmen|prihvatati / prihvatiti": {
+    "pres1_ipf": "prihvatam",
+    "pres1_pf": "prihvatim"
+  },
+  "einverstanden sein|složiti se": {
+    "pres1_ipf": "složim se"
+  },
+  "gefallen|dopadati se": {
+    "pres1_ipf": "dopadam se"
+  },
+  "schätzen|ceniti / proceniti": {
+    "pres1_ipf": "cenim",
+    "pres1_pf": "procenim"
+  },
+  "nennen|nazivati / nazvati": {
+    "pres1_ipf": "nazivam",
+    "pres1_pf": "nazovem"
+  },
+  "vergleichen|porediti / uporediti": {
+    "pres1_ipf": "poredim",
+    "pres1_pf": "uporedim"
+  },
+  "zusammenarbeiten|sarađivati": {
+    "pres1_ipf": "sarađujem"
+  },
+  "arbeiten|raditi": {
+    "pres1_ipf": "radim"
+  },
+  "bewerben sich|konkurisati / prijaviti se": {
+    "pres1_ipf": "konkurisam",
+    "pres1_pf": "prijavim se"
+  },
+  "entsprechen|odgovarati": {
+    "pres1_ipf": "odgovaram"
+  },
+  "erfüllen|ispunjavati / ispuniti": {
+    "pres1_ipf": "ispunjavam",
+    "pres1_pf": "ispunim"
+  },
+  "leiten|voditi / rukovoditi": {
+    "pres1_ipf": "vodim",
+    "pres1_pf": "rukovodim"
+  },
+  "leisten|pružati / pružiti; moći priuštiti": {
+    "pres1_ipf": "pružam",
+    "pres1_pf": "pružiti; moći priuštim"
+  },
+  "einführen|uvoditi / uvesti": {
+    "pres1_ipf": "uvodim"
+  },
+  "entwickeln|razvijati / razviti": {
+    "pres1_ipf": "razvijam",
+    "pres1_pf": "razvim"
+  },
+  "ermöglichen|omogućavati / omogućiti": {
+    "pres1_ipf": "omogućavam",
+    "pres1_pf": "omogućim"
+  },
+  "gründen|osnivati / osnovati": {
+    "pres1_ipf": "osnujem",
+    "pres1_pf": "osnujem"
+  },
+  "teilnehmen|učestvovati": {
+    "pres1_ipf": "učestvujem"
+  },
+  "beraten|savetovati / posavetovati": {
+    "pres1_ipf": "savetujem",
+    "pres1_pf": "posavetujem"
+  },
+  "gestalten|oblikovati / osmisliti": {
+    "pres1_ipf": "oblikujem",
+    "pres1_pf": "osmislim"
+  },
+  "abschließen|završavati / završiti": {
+    "pres1_ipf": "završavam",
+    "pres1_pf": "završim"
+  },
+  "beenden|završavati / završiti": {
+    "pres1_ipf": "završavam",
+    "pres1_pf": "završim"
+  },
+  "festlegen|utvrđivati / utvrditi": {
+    "pres1_ipf": "utvrđujem",
+    "pres1_pf": "utvrdim"
+  },
+  "organisieren|organizovati": {
+    "pres1_ipf": "organizujem"
+  },
+  "fordern|zahtevati": {
+    "pres1_ipf": "zahtevam"
+  },
+  "vertreten|zastupati / predstavljati": {
+    "pres1_ipf": "zastupam",
+    "pres1_pf": "predstavljam"
+  },
+  "aufbauen|graditi / izgraditi": {
+    "pres1_ipf": "gradim",
+    "pres1_pf": "izgradim"
+  },
+  "durchführen|sprovoditi / sprovesti": {
+    "pres1_ipf": "sprovodim"
+  },
+  "umsetzen|sprovoditi / sprovesti": {
+    "pres1_ipf": "sprovodim"
+  },
+  "überprüfen|proveravati / proveriti": {
+    "pres1_ipf": "proveravam",
+    "pres1_pf": "proverim"
+  },
+  "bieten|nuditi / ponuditi": {
+    "pres1_ipf": "nudim",
+    "pres1_pf": "ponudim"
+  },
+  "kündigen|dati otkaz / otkazati": {
+    "pres1_pf": "otkazam"
+  },
+  "anpassen|prilagođavati / prilagoditi": {
+    "pres1_ipf": "prilagođavam",
+    "pres1_pf": "prilagodim"
+  },
+  "reduzieren|smanjivati / smanjiti": {
+    "pres1_ipf": "smanjujem",
+    "pres1_pf": "smanjim"
+  },
+  "schaffen|uspevati / uspeti": {
+    "pres1_ipf": "uspevam",
+    "pres1_pf": "uspim"
+  },
+  "planen|planirati / isplanirati": {
+    "pres1_ipf": "planiram",
+    "pres1_pf": "isplaniram"
+  },
+  "ausbilden|obučavati / obučiti": {
+    "pres1_ipf": "obučavam",
+    "pres1_pf": "obučim"
+  },
+  "gelingen|uspevati / uspeti": {
+    "pres1_ipf": "uspevam",
+    "pres1_pf": "uspim"
+  },
+  "mitmachen|učestvovati": {
+    "pres1_ipf": "učestvujem"
+  },
+  "sich treffen|sastajati se / sresti se": {
+    "pres1_ipf": "sastajam se",
+    "pres1_pf": "sretnem se"
+  },
+  "anerkennen|priznavati / priznati": {
+    "pres1_ipf": "priznavam",
+    "pres1_pf": "priznam"
+  },
+  "auftreten|pojavljivati se / pojaviti se": {
+    "pres1_ipf": "pojavljujem se",
+    "pres1_pf": "pojavim se"
+  },
+  "beitragen|doprinositi / doprineti": {
+    "pres1_ipf": "doprinosim",
+    "pres1_pf": "doprinim"
+  },
+  "beteiligen sich|učestvovati": {
+    "pres1_ipf": "učestvujem"
+  },
+  "austauschen|razmenjivati / razmeniti": {
+    "pres1_ipf": "razmenjujem",
+    "pres1_pf": "razmenim"
+  },
+  "ergänzen|dopunjavati / dopuniti": {
+    "pres1_ipf": "dopunjavam",
+    "pres1_pf": "dopunim"
+  },
+  "klären|razjašnjavati / razjasniti": {
+    "pres1_ipf": "razjašnjavam",
+    "pres1_pf": "razjasnim"
+  },
+  "veröffentlichen|objavljivati / objaviti": {
+    "pres1_ipf": "objavljujem",
+    "pres1_pf": "objavim"
+  },
+  "beurteilen|ocenjivati / oceniti": {
+    "pres1_ipf": "ocenjujem",
+    "pres1_pf": "ocenim"
+  },
+  "abstimmen|glasati / uskladiti": {
+    "pres1_ipf": "glasam",
+    "pres1_pf": "uskladim"
+  },
+  "lösen|rešavati / rešiti": {
+    "pres1_ipf": "rešavam",
+    "pres1_pf": "rešim"
+  },
+  "verhindern|sprečavati / sprečiti": {
+    "pres1_ipf": "sprečavam",
+    "pres1_pf": "sprečim"
+  },
+  "sichern|obezbeđivati / obezbediti": {
+    "pres1_ipf": "obezbeđujem",
+    "pres1_pf": "obezbedim"
+  },
+  "vereinbaren|dogovarati / dogovoriti": {
+    "pres1_ipf": "dogovaram",
+    "pres1_pf": "dogovorim"
+  },
+  "verschieben|odlagati / odložiti": {
+    "pres1_ipf": "odlagam",
+    "pres1_pf": "odložim"
+  },
+  "absagen|otkazivati / otkazati": {
+    "pres1_ipf": "otkazujem",
+    "pres1_pf": "otkazam"
+  },
+  "anfangen|počinjati / početi": {
+    "pres1_ipf": "počinjam",
+    "pres1_pf": "počim"
+  },
+  "erwarten|očekivati": {
+    "pres1_ipf": "očekujem"
+  },
+  "vorhaben|planirati / nameravati": {
+    "pres1_ipf": "planiram",
+    "pres1_pf": "nameravam"
+  },
+  "bilden|oblikovati / formirati": {
+    "pres1_ipf": "oblikujem",
+    "pres1_pf": "formiram"
+  },
+  "fördern|podsticati / podstaći": {
+    "pres1_ipf": "podsticam"
+  },
+  "feiern|slaviti / proslaviti": {
+    "pres1_ipf": "slavim",
+    "pres1_pf": "proslavim"
+  },
+  "gelten|važiti": {
+    "pres1_ipf": "važim"
+  },
+  "zwingen|prisiljavati / prisiliti": {
+    "pres1_ipf": "prisiljavam",
+    "pres1_pf": "prisilim"
+  },
+  "hören|čuti / slušati": {
+    "pres1_pf": "slušam"
+  },
+  "haben|imati": {
+    "pres1_ipf": "imam"
+  },
+  "machen|raditi / uraditi": {
+    "pres1_ipf": "radim",
+    "pres1_pf": "uradim"
+  },
+  "sein|biti": {
+    "pres1_ipf": "sam"
+  },
+  "tun|činiti / uraditi": {
+    "pres1_ipf": "činim",
+    "pres1_pf": "uradim"
+  },
+  "besitzen|posedovati": {
+    "pres1_ipf": "posedujem"
+  },
+  "gehören|pripadati": {
+    "pres1_ipf": "pripadam"
+  },
+  "sich lohnen|isplatiti se": {
+    "pres1_ipf": "isplatim se"
+  },
+  "studieren|studirati": {
+    "pres1_ipf": "studiram"
+  },
+  "kaufen|kupovati / kupiti": {
+    "pres1_ipf": "kupujem",
+    "pres1_pf": "kupim"
+  },
+  "wachsen|rasti / porasti": {
+    "pres1_ipf": "rastem"
+  },
+  "werden|postajati / postati": {
+    "pres1_ipf": "postajem",
+    "pres1_pf": "postanem"
+  },
+  "geschehen|dešavati se / desiti se": {
+    "pres1_ipf": "dešavam se",
+    "pres1_pf": "desim se"
+  },
+  "passieren|dešavati se / desiti se": {
+    "pres1_ipf": "dešavam se",
+    "pres1_pf": "desim se"
+  },
+  "erleben|doživljavati / doživeti": {
+    "pres1_ipf": "doživljavam",
+    "pres1_pf": "doživim"
+  },
+  "sparen|štedeti / uštedeti": {
+    "pres1_ipf": "štedim",
+    "pres1_pf": "uštedim"
+  },
+  "kosten|koštati": {
+    "pres1_ipf": "koštam"
+  },
+  "ausgeben|trošiti / potrošiti": {
+    "pres1_ipf": "trošim",
+    "pres1_pf": "potrošim"
+  },
+  "berechnen|računati / izračunati": {
+    "pres1_ipf": "računam",
+    "pres1_pf": "izračunam"
+  },
+  "erhöhen|povećavati / povećati": {
+    "pres1_ipf": "povećavam",
+    "pres1_pf": "povećam"
+  },
+  "bitten|moliti / zamoliti": {
+    "pres1_ipf": "molim",
+    "pres1_pf": "zamolim"
+  },
+  "erfahren|saznavati / saznati": {
+    "pres1_ipf": "saznajem",
+    "pres1_pf": "saznam"
+  },
+  "drohen|pretiti / zapretiti": {
+    "pres1_ipf": "pretim",
+    "pres1_pf": "zapretim"
+  },
+  "warnen|upozoravati / upozoriti": {
+    "pres1_ipf": "upozoravam",
+    "pres1_pf": "upozorim"
+  },
+  "vermeiden|izbegavati / izbeći": {
+    "pres1_ipf": "izbegavam"
+  },
+  "geraten|dospeti / upasti": {
+    "pres1_ipf": "dospim"
+  },
+  "bedeuten|značiti": {
+    "pres1_ipf": "značim"
+  },
+  "unterscheiden|razlikovati": {
+    "pres1_ipf": "razlikujem"
+  },
+  "entstehen|nastajati / nastati": {
+    "pres1_ipf": "nastajam",
+    "pres1_pf": "nastam"
+  },
+  "ändern|menjati / promeniti": {
+    "pres1_ipf": "menjam",
+    "pres1_pf": "promenim"
+  },
+  "beobachten|posmatrati": {
+    "pres1_ipf": "posmatram"
+  },
+  "merken|primećivati / primetiti": {
+    "pres1_ipf": "primećujem",
+    "pres1_pf": "primetim"
+  },
+  "riechen|mirisati": {
+    "pres1_ipf": "mirisam"
+  },
+  "sehen|videti / gledati": {
+    "pres1_ipf": "vidim",
+    "pres1_pf": "gledam"
+  },
+  "erkennen|prepoznavati / prepoznati": {
+    "pres1_ipf": "prepoznavam",
+    "pres1_pf": "prepoznam"
+  },
+  "gewinnen|dobijati / dobiti; pobeđivati / pobediti": {
+    "pres1_ipf": "dobijam",
+    "pres1_pf": "dobiti; pobeđujem"
+  },
+  "senken|smanjivati / smanjiti": {
+    "pres1_ipf": "smanjujem",
+    "pres1_pf": "smanjim"
+  },
+  "steigen|rasti / porasti": {
+    "pres1_ipf": "rastem"
   }
 }

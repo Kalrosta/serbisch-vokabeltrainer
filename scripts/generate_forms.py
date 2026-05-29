@@ -145,6 +145,215 @@ FEM_PL_TANTUM = {
     "rukavice", "papuče", "čarape", "patike", "cipele", "čizme",
 }
 
+
+# =====================================================================
+# VERB-OVERRIDES (1. Person Singular Präsens)
+# =====================================================================
+
+# Override für Verben, deren 1.P.Sg. nicht aus dem Infinitiv ableitbar ist.
+# Key: Verb im Infinitiv (ohne reflexives "se").
+VERB_OVERRIDE = {
+    # ---- Echte Unregelmäßige ----
+    "biti": "sam",
+    "hteti": "hoću",
+    "moći": "mogu",   # Spezial mit -u Endung
+    "ići": "idem",
+    "jesti": "jedem",
+    "piti": "pijem",
+    "dati": "dam",
+    "znati": "znam",
+    "stati": "stanem",
+    "imati": "imam",
+    "spavati": "spavam",
+    "uzeti": "uzmem",
+    "umeti": "umem",
+
+    # ---- -ći Verben (Velarwechsel und/oder Stammwechsel) ----
+    "doći": "dođem",
+    "naći": "nađem",
+    "preći": "pređem",
+    "ući": "uđem",
+    "izaći": "izađem",
+    "izići": "iziđem",
+    "stići": "stignem",
+    "leći": "legnem",
+    "reći": "kažem",      # kompletter Stammwechsel
+    "peći": "pečem",      # k→č
+    "seći": "sečem",      # k→č
+    "obući": "obučem",
+    "izvući": "izvučem",
+    "vući": "vučem",
+    "tući": "tučem",
+
+    # ---- Verben auf -sti (Stammerweiterung) ----
+    "sresti": "sretnem",
+    "rasti": "rastem",
+    "pasti": "padnem",
+    "sesti": "sednem",
+    "naprasti": "naprestanem",
+
+    # ---- -ati mit Konsonantenwechsel ----
+    "pisati": "pišem",
+    "kazati": "kažem",
+    "brisati": "brišem",
+    "plakati": "plačem",
+    "skakati": "skačem",
+    "iskakati": "iskačem",
+    "tražiti": "tražim",   # regulär eigentlich
+    "vezati": "vežem",
+    "lagati": "lažem",
+
+    # ---- -avati Klasse 1 (verkürzt, -ajem) ----
+    "davati": "dajem",
+    "prodavati": "prodajem",
+    "predavati": "predajem",
+    "saznavati": "saznajem",
+    "izdavati": "izdajem",
+    "ostavati": "ostajem",
+    "udavati": "udajem",
+    "postajati": "postajem",
+    "ustajati": "ustajem",
+    "nestajati": "nestajem",
+    "smetati": "smetam",   # regulär -ati → -am
+
+    # ---- -ati irreguläre Klassiker ----
+    "zvati": "zovem",       # Stamm-o
+    "brati": "berem",       # Stamm-e
+    "prati": "perem",
+    "spavati": "spavam",
+    "smeti": "smem",
+    "videti": "vidim",
+    "želeti": "želim",
+    "voleti": "volim",
+    "umeti": "umem",
+    "razumeti": "razumem",  # -em statt -im!
+    "leteti": "letim",
+
+    # ---- Perfektive Formen mit Stammerweiterung -ne- ----
+    "postati": "postanem",
+    "ostati": "ostanem",
+    "stati": "stanem",
+    "ustati": "ustanem",
+    "nestati": "nestanem",
+    "sresti": "sretnem",
+    "propasti": "propadnem",
+    "pasti": "padnem",
+    "sesti": "sednem",
+
+    # ---- Perfektive mit Stamm-Wechsel (Konsonant) ----
+    "pokazati": "pokažem",
+    "kazati": "kažem",
+    "napisati": "napišem",
+    "potpisati": "potpišem",
+    "zaplakati": "zaplačem",
+    "vezati": "vežem",
+    "povezati": "povežem",
+    "preskočiti": "preskočim",  # regulär
+
+    # ---- Perfektive von -piti/-jesti/-nositi (Erweiterung) ----
+    "popiti": "popijem",
+    "pojesti": "pojedem",
+    "doneti": "donesem",
+    "odneti": "odnesem",
+    "preneti": "prenesem",
+    "uneti": "unesem",
+    "izneti": "iznesem",
+    "doneti se": "donesem se",
+
+    # ---- Perfektive von zvati (Stamm zov-) ----
+    "pozvati": "pozovem",
+    "nazvati": "nazovem",
+    "sazvati": "sazovem",
+
+    # ---- Perfektive von -uzeti ----
+    "zauzeti": "zauzmem",
+    "preuzeti": "preuzmem",
+    "oduzeti": "oduzmem",
+    "preduzeti": "preduzmem",
+
+    # ---- Perfektive von -znati ----
+    "saznati": "saznam",
+    "doznati": "doznam",
+    "upoznati": "upoznam",
+
+    # ---- Perfektive von -moći ----
+    "pomoći": "pomognem",
+    "omogućiti": "omogućim",
+
+    # ---- Perfektive von -dati ----
+    "predati": "predam",
+    "izdati": "izdam",
+    "udati se": "udam se",
+    "prodati": "prodam",
+    "dodati": "dodam",
+    "zadati": "zadam",
+    "podati se": "podam se",
+
+    # ---- Diverse Klassiker ----
+    "biti se": "bijem se",       # selten
+    "objasniti": "objasnim",
+    "razumeti": "razumem",
+    "porazumeti se": "porazumem se",
+
+    # ---- "Alte" -vati Verben (kein Stammwechsel zu -ujem) ----
+    # Linguistisch: nicht Suffix-Erweiterung, sondern alter -vati Stamm
+    "pozivati": "pozivam",
+    "zalivati": "zalivam",
+    "pokrivati": "pokrivam",
+    "uživati": "uživam",
+    "nazivati": "nazivam",
+}
+
+
+def gen_verb_pres1(word):
+    """Generiert 1. P. Sg. Präsens. None wenn nicht ableitbar."""
+    if not word:
+        return None
+    # Override hat Vorrang
+    if word in VERB_OVERRIDE:
+        return VERB_OVERRIDE[word]
+
+    # Reflexive Verben: "se" ist NICHT Teil des Stamms, wir kriegen den Infinitiv ohne se
+    # (wird vor Aufruf gestrippt)
+
+    # -ovati → -ujem (regulär, Stammwechsel)
+    if word.endswith("ovati") and len(word) > 5:
+        return word[:-5] + "ujem"
+
+    # -ivati → -ujem (regulär, Stammwechsel)
+    if word.endswith("ivati") and len(word) > 5:
+        return word[:-5] + "ujem"
+
+    # -avati → -avam (default, neue Klasse). Klasse 1 (-ajem) ist in Override.
+    if word.endswith("avati") and len(word) > 5:
+        return word[:-5] + "avam"
+
+    # -nuti → -nem
+    if word.endswith("nuti") and len(word) > 4:
+        return word[:-4] + "nem"
+
+    # -iti → -im
+    if word.endswith("iti") and len(word) > 3:
+        return word[:-3] + "im"
+
+    # -eti → -im (mit Ausnahmen in Override für -em wie razumeti)
+    if word.endswith("eti") and len(word) > 3:
+        return word[:-3] + "im"
+
+    # -ati → -am (mit Ausnahmen für Konsonantenwechsel in Override)
+    if word.endswith("ati") and len(word) > 3:
+        return word[:-3] + "am"
+
+    # Sonst: keine Heuristik
+    return None
+
+
+def strip_se(word):
+    """Reflexives 'se' am Ende entfernen (gibt Tuple zurück mit reflexive-Flag)."""
+    if word.endswith(" se"):
+        return word[:-3].strip(), True
+    return word, False
+
 # Feminin endend auf Konsonant (i-Deklination, Abstrakta auf -ost/-nost und Klassiker)
 FEM_ON_CONS = {
     "noć", "stvar", "smrt", "reč", "ljubav", "vlast", "čast", "krv",
@@ -284,6 +493,7 @@ def main():
 
     adj_generated = 0
     noun_generated = 0
+    verb_generated = 0
     for r in rows[1:]:
         if len(r) < 11:
             continue
@@ -303,6 +513,35 @@ def main():
         elif "Nomen" in str(wa):
             existing[key] = gen_noun(first)
             noun_generated += 1
+        elif "Verb" in str(wa):
+            # Erkennt: Singleton vs Aspektpaar via "/"
+            sl_parts = [p.strip() for p in str(sl).split("/")]
+            entry = {}
+            if len(sl_parts) >= 2:
+                ipf_raw, pf_raw = sl_parts[0], sl_parts[1]
+                ipf_stem, _ = strip_se(ipf_raw)
+                pf_stem, _ = strip_se(pf_raw)
+                ipf_pres = gen_verb_pres1(ipf_stem)
+                pf_pres = gen_verb_pres1(pf_stem)
+                # Reflexives "se" wieder anhängen, wenn vorhanden
+                if ipf_pres and ipf_raw.endswith(" se"):
+                    ipf_pres += " se"
+                if pf_pres and pf_raw.endswith(" se"):
+                    pf_pres += " se"
+                if ipf_pres:
+                    entry["pres1_ipf"] = ipf_pres
+                if pf_pres:
+                    entry["pres1_pf"] = pf_pres
+            else:
+                stem, _ = strip_se(first)
+                pres = gen_verb_pres1(stem)
+                if pres and first.endswith(" se"):
+                    pres += " se"
+                if pres:
+                    entry["pres1_ipf"] = pres
+            if entry:
+                existing[key] = entry
+                verb_generated += 1
 
     forms_path.parent.mkdir(parents=True, exist_ok=True)
     with forms_path.open("w", encoding="utf-8") as f:
@@ -310,6 +549,7 @@ def main():
 
     print(f"Adjektive: {adj_generated} neu generiert.")
     print(f"Nomen:     {noun_generated} neu generiert.")
+    print(f"Verben:    {verb_generated} neu generiert.")
     print(f"Total in forms.json: {len(existing)}")
 
 

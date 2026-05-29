@@ -528,6 +528,17 @@ body {
   margin-top: 2px;
 }
 
+.aspect-pres {
+  font-size: 11px;
+  margin-top: 6px;
+  padding-top: 5px;
+  border-top: 0.5px dashed currentColor;
+  opacity: 0.85;
+  font-family: var(--font-serif);
+  font-style: italic;
+  letter-spacing: 0.005em;
+}
+
 .examples {
   width: 100%;
   margin-top: 0.85rem;
